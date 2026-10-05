@@ -1,0 +1,279 @@
+[
+  {
+    "xid": "Q1456058",
+    "name": "Friar's Inn",
+    "dist": 350.12222034,
+    "rate": 2,
+    "wikidata": "Q1456058",
+    "kinds": "cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62580108642578,
+      "lat": 41.87710189819336
+    }
+  },
+  {
+    "xid": "N4458262089",
+    "name": "Lobby Bar at Palmer House",
+    "dist": 361.94222824,
+    "rate": 7,
+    "osm": "node/4458262089",
+    "wikidata": "Q7755965",
+    "kinds": "accomodations,other_hotels,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62674713134766,
+      "lat": 41.880428314208984
+    }
+  },
+  {
+    "xid": "W149372353",
+    "name": "Buddy Guy's Legends",
+    "dist": 635.75876083,
+    "rate": 2,
+    "osm": "way/149372353",
+    "wikidata": "Q16255715",
+    "kinds": "nightclubs,adult",
+    "point": {
+      "lon": -87.6264419555664,
+      "lat": 41.872955322265625
+    }
+  },
+  {
+    "xid": "Q7919410",
+    "name": "Velvet Lounge",
+    "dist": 651.07003688,
+    "rate": 2,
+    "wikidata": "Q7919410",
+    "kinds": "cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.63333129882812,
+      "lat": 41.88333511352539
+    }
+  },
+  {
+    "xid": "Q1423025",
+    "name": "Warehouse",
+    "dist": 1082.75852847,
+    "rate": 2,
+    "wikidata": "Q1423025",
+    "kinds": "nightclubs,adult,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.6427993774414,
+      "lat": 41.87889862060547
+    }
+  },
+  {
+    "xid": "W153328586",
+    "name": "House of Blues",
+    "dist": 1128.70926767,
+    "rate": 3,
+    "osm": "way/153328586",
+    "wikidata": "Q648898",
+    "kinds": "nightclubs,adult",
+    "point": {
+      "lon": -87.62909698486328,
+      "lat": 41.888248443603516
+    }
+  },
+  {
+    "xid": "N7331716830",
+    "name": "London House Chicago",
+    "dist": 1136.60219789,
+    "rate": 2,
+    "osm": "node/7331716830",
+    "wikidata": "Q7748047",
+    "kinds": "accomodations,nightclubs,cultural,theatres_and_entertainments,interesting_places,adult,music_venues,other_hotels,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62535858154297,
+      "lat": 41.887779235839844
+    }
+  },
+  {
+    "xid": "N4731205522",
+    "name": "Andy's Jazz",
+    "dist": 1330.02719776,
+    "rate": 2,
+    "osm": "node/4731205522",
+    "wikidata": "Q4760329",
+    "kinds": "nightclubs,cultural,theatres_and_entertainments,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62736511230469,
+      "lat": 41.88993453979492
+    }
+  },
+  {
+    "xid": "N357044250",
+    "name": "Billy Goat Tavern",
+    "dist": 1412.48172036,
+    "rate": 3,
+    "osm": "node/357044250",
+    "wikidata": "Q2903638",
+    "kinds": "pubs,foods,tourist_facilities",
+    "point": {
+      "lon": -87.62478637695312,
+      "lat": 41.890254974365234
+    }
+  },
+  {
+    "xid": "Q2412168",
+    "name": "The Jazz Showcase",
+    "dist": 1477.82772676,
+    "rate": 2,
+    "wikidata": "Q2412168",
+    "kinds": "cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.63030242919922,
+      "lat": 41.89139938354492
+    }
+  },
+  {
+    "xid": "Q7337009",
+    "name": "Rive Gauche Nightclub",
+    "dist": 1791.23466539,
+    "rate": 2,
+    "wikidata": "Q7337009",
+    "kinds": "cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.64772033691406,
+      "lat": 41.8870849609375
+    }
+  },
+  {
+    "xid": "Q5094649",
+    "name": "Chez Paree",
+    "dist": 1849.75830052,
+    "rate": 2,
+    "wikidata": "Q5094649",
+    "kinds": "theatres_and_entertainments,cultural,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62039947509766,
+      "lat": 41.8931999206543
+    }
+  },
+  {
+    "xid": "W210680201",
+    "name": "The Green Door Tavern",
+    "dist": 1939.844926,
+    "rate": 3,
+    "osm": "way/210680201",
+    "wikidata": "Q16947573",
+    "kinds": "restaurants,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.63740539550781,
+      "lat": 41.894615173339844
+    }
+  },
+  {
+    "xid": "N6326487082",
+    "name": "Palm Court",
+    "dist": 2531.37299768,
+    "rate": 7,
+    "osm": "node/6326487082",
+    "wikidata": "Q5305603",
+    "kinds": "accomodations,other_hotels,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62345886230469,
+      "lat": 41.900390625
+    }
+  },
+  {
+    "xid": "Q6880159",
+    "name": "Mister Kelly's",
+    "dist": 2592.26573849,
+    "rate": 2,
+    "wikidata": "Q6880159",
+    "kinds": "cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62799835205078,
+      "lat": 41.90140151977539
+    }
+  },
+  {
+    "xid": "W752904680",
+    "name": "Navy Pier Beer Garden",
+    "dist": 2867.21627985,
+    "rate": 7,
+    "osm": "way/752904680",
+    "wikidata": "Q3337338",
+    "kinds": "architecture,historic_architecture,interesting_places,foods,bars,tourist_facilities,other_buildings_and_structures",
+    "point": {
+      "lon": -87.60037994384766,
+      "lat": 41.891632080078125
+    }
+  },
+  {
+    "xid": "N6315597292",
+    "name": "The Hideout",
+    "dist": 4821.98120532,
+    "rate": 3,
+    "osm": "node/6315597292",
+    "wikidata": "Q25344890",
+    "kinds": "nightclubs,cultural,theatres_and_entertainments,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.66263580322266,
+      "lat": 41.913917541503906
+    }
+  },
+  {
+    "xid": "Q16919553",
+    "name": "West End",
+    "dist": 4999.65033436,
+    "rate": 2,
+    "wikidata": "Q16919553",
+    "kinds": "cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.65797424316406,
+      "lat": 41.91788864135742
+    }
+  },
+  {
+    "xid": "Q5299735",
+    "name": "Double Door",
+    "dist": 5281.78373417,
+    "rate": 3,
+    "wikidata": "Q5299735",
+    "kinds": "concert_halls,cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.677001953125,
+      "lat": 41.90999984741211
+    }
+  },
+  {
+    "xid": "W210321368",
+    "name": "Lincoln Hall",
+    "dist": 5564.48342753,
+    "rate": 3,
+    "osm": "way/210321368",
+    "wikidata": "Q6550694",
+    "kinds": "cultural,cinemas,theatres_and_entertainments,interesting_places,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.64981079101562,
+      "lat": 41.9259147644043
+    }
+  },
+  {
+    "xid": "W210171238",
+    "name": "Schaller's Pump",
+    "dist": 5823.62679986,
+    "rate": 2,
+    "osm": "way/210171238",
+    "wikidata": "Q24435822",
+    "kinds": "foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.64636993408203,
+      "lat": 41.827152252197266
+    }
+  },
+  {
+    "xid": "W210321648",
+    "name": "Kingston Mines",
+    "dist": 5846.38165904,
+    "rate": 2,
+    "osm": "way/210321648",
+    "wikidata": "Q19864560",
+    "kinds": "foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.64920806884766,
+      "lat": 41.9286994934082
+    }
+  }
+]

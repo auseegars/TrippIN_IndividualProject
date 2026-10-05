@@ -1,0 +1,6 @@
+profile,baseline_pref_match_%,personalized_pref_match_%,baseline_avg_daily_cost_$,personalized_avg_daily_cost_$,budget_per_day_$,gain_pts
+foodie_budget,41.7,100.0,70.7,72.0,80,58.3
+culture_seeker,77.8,100.0,56.7,55.0,100,22.2
+outdoors_nightlife,16.7,100.0,70.7,35.0,120,83.3
+night_owl_foodie,50.0,100.0,79.2,94.8,100,50.0
+MEAN,46.6,100.0,69.3,64.2,100.0,53.4

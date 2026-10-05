@@ -1,0 +1,311 @@
+##### scenario: Clear, 22C
+=== STATIC ===
+Profile: foodie_budget | interests: {'food': 3, 'outdoors': 1} | budget/day: $80
+Day 1  (est. $90 per person)  ** over budget **
+   - North Garden  [outdoors]  ~$0 (est.)
+   - Marquette Inn  [food]  ~$30 (est.)
+   - Seven Lions  [food]  ~$30 (est.)
+   - Everest  [food]  ~$30 (est.)
+Day 2  (est. $72 per person)
+   - Lurie Garden  [outdoors]  ~$0 (est.)
+   - Market By The Blackstone  [food]  ~$12 (est.)
+   - The Park Grill  [food]  ~$30 (est.)
+   - McCormick Tribune Plaza & Ice Rink  [food]  ~$30 (est.)
+Day 3  (est. $54 per person)
+   - Chase Promenade  [outdoors]  ~$0 (est.)
+   - One North Kitchen  [food]  ~$30 (est.)
+   - Intelligentsia Coffee  [food]  ~$12 (est.)
+   - Crain Communications Building  [food]  ~$12 (est.)
+Running total (est.): $216 per person
+=== ADAPTIVE ===
+Profile: foodie_budget | interests: {'food': 3, 'outdoors': 1} | budget/day: $80
+Day 1  (est. $70 per person)
+   - North Garden  [outdoors]  ~$0 (est.)
+   - Seven Lions  [food]  ~$30 (est.)
+   - Everest  [food]  ~$30 (est.)
+   - Così  [food]  ~$10 (est.)
+Day 2  (est. $72 per person)
+   - Lurie Garden  [outdoors]  ~$0 (est.)
+   - Market By The Blackstone  [food]  ~$12 (est.)
+   - The Park Grill  [food]  ~$30 (est.)
+   - McCormick Tribune Plaza & Ice Rink  [food]  ~$30 (est.)
+Day 3  (est. $54 per person)
+   - Chase Promenade  [outdoors]  ~$0 (est.)
+   - One North Kitchen  [food]  ~$30 (est.)
+   - Intelligentsia Coffee  [food]  ~$12 (est.)
+   - Crain Communications Building  [food]  ~$12 (est.)
+Running total (est.): $196 per person
+
+##### scenario: Heavy rain
+=== STATIC ===
+Profile: foodie_budget | interests: {'food': 3, 'outdoors': 1} | budget/day: $80
+Day 1  (est. $90 per person)  ** over budget **
+   - North Garden  [outdoors]  ~$0 (est.)
+   - Marquette Inn  [food]  ~$30 (est.)
+   - Seven Lions  [food]  ~$30 (est.)
+   - Everest  [food]  ~$30 (est.)
+Day 2  (est. $72 per person)
+   - Lurie Garden  [outdoors]  ~$0 (est.)
+   - Market By The Blackstone  [food]  ~$12 (est.)
+   - The Park Grill  [food]  ~$30 (est.)
+   - McCormick Tribune Plaza & Ice Rink  [food]  ~$30 (est.)
+Day 3  (est. $54 per person)
+   - Chase Promenade  [outdoors]  ~$0 (est.)
+   - One North Kitchen  [food]  ~$30 (est.)
+   - Intelligentsia Coffee  [food]  ~$12 (est.)
+   - Crain Communications Building  [food]  ~$12 (est.)
+Running total (est.): $216 per person
+=== ADAPTIVE ===
+Profile: foodie_budget | interests: {'food': 3, 'outdoors': 1} | budget/day: $80
+Day 1  (est. $62 per person)
+   - McCormick Tribune Plaza & Ice Rink  [food]  ~$30 (est.)
+   - Lavazza  [food]  ~$12 (est.)
+   - Al's #1 Italian Beef  [food]  ~$10 (est.)
+   - Queen's Landing Concession  [food]  ~$10 (est.)
+Day 2  (est. $66 per person)
+   - Market By The Blackstone  [food]  ~$12 (est.)
+   - The Park Grill  [food]  ~$30 (est.)
+   - Intelligentsia Coffee  [food]  ~$12 (est.)
+   - Crain Communications Building  [food]  ~$12 (est.)
+Day 3  (est. $62 per person)
+   - Così  [food]  ~$10 (est.)
+   - State and Lake Chicago Tavern  [food]  ~$30 (est.)
+   - Argo Tea  [food]  ~$12 (est.)
+   - Harold's Chicken #88  [food]  ~$10 (est.)
+Running total (est.): $190 per person
+
+##### scenario: Clear, 22C
+=== STATIC ===
+Profile: culture_seeker | interests: {'museums': 3, 'food': 1} | budget/day: $100
+Day 1  (est. $75 per person)
+   - Money Museum  [museums]  ~$15 (est.)
+   - Everest  [food]  ~$30 (est.)
+   - Marquette Inn  [food]  ~$30 (est.)
+Day 2  (est. $45 per person)
+   - Pritzker Military Museum & Library  [museums]  ~$15 (est.)
+   - Art Institute of Chicago  [museums]  ~$15 (est.)
+   - The Art Institute of Chicago  [museums]  ~$15 (est.)
+Day 3  (est. $45 per person)
+   - The Museum of Contemporary Photography  [museums]  ~$15 (est.)
+   - Chicago Design Museum  [museums]  ~$15 (est.)
+   - Gene Siskel Film Center  [museums]  ~$15 (est.)
+Running total (est.): $165 per person
+=== ADAPTIVE ===
+Profile: culture_seeker | interests: {'museums': 3, 'food': 1} | budget/day: $100
+Day 1  (est. $75 per person)
+   - Money Museum  [museums]  ~$15 (est.)
+   - Everest  [food]  ~$30 (est.)
+   - Marquette Inn  [food]  ~$30 (est.)
+Day 2  (est. $45 per person)
+   - Pritzker Military Museum & Library  [museums]  ~$15 (est.)
+   - Art Institute of Chicago  [museums]  ~$15 (est.)
+   - The Art Institute of Chicago  [museums]  ~$15 (est.)
+Day 3  (est. $45 per person)
+   - The Museum of Contemporary Photography  [museums]  ~$15 (est.)
+   - Chicago Design Museum  [museums]  ~$15 (est.)
+   - Gene Siskel Film Center  [museums]  ~$15 (est.)
+Running total (est.): $165 per person
+
+##### scenario: Heavy rain
+=== STATIC ===
+Profile: culture_seeker | interests: {'museums': 3, 'food': 1} | budget/day: $100
+Day 1  (est. $75 per person)
+   - Money Museum  [museums]  ~$15 (est.)
+   - Everest  [food]  ~$30 (est.)
+   - Marquette Inn  [food]  ~$30 (est.)
+Day 2  (est. $45 per person)
+   - Pritzker Military Museum & Library  [museums]  ~$15 (est.)
+   - Art Institute of Chicago  [museums]  ~$15 (est.)
+   - The Art Institute of Chicago  [museums]  ~$15 (est.)
+Day 3  (est. $45 per person)
+   - The Museum of Contemporary Photography  [museums]  ~$15 (est.)
+   - Chicago Design Museum  [museums]  ~$15 (est.)
+   - Gene Siskel Film Center  [museums]  ~$15 (est.)
+Running total (est.): $165 per person
+=== ADAPTIVE ===
+Profile: culture_seeker | interests: {'museums': 3, 'food': 1} | budget/day: $100
+Day 1  (est. $75 per person)
+   - Money Museum  [museums]  ~$15 (est.)
+   - Everest  [food]  ~$30 (est.)
+   - Marquette Inn  [food]  ~$30 (est.)
+Day 2  (est. $45 per person)
+   - Pritzker Military Museum & Library  [museums]  ~$15 (est.)
+   - Art Institute of Chicago  [museums]  ~$15 (est.)
+   - The Art Institute of Chicago  [museums]  ~$15 (est.)
+Day 3  (est. $45 per person)
+   - The Museum of Contemporary Photography  [museums]  ~$15 (est.)
+   - Chicago Design Museum  [museums]  ~$15 (est.)
+   - Gene Siskel Film Center  [museums]  ~$15 (est.)
+Running total (est.): $165 per person
+
+##### scenario: Clear, 22C
+=== STATIC ===
+Profile: outdoors_nightlife | interests: {'outdoors': 3, 'nightlife': 2} | budget/day: $120
+Day 1  (est. $20 per person)
+   - North Garden  [outdoors]  ~$0 (est.)
+   - Lurie Garden  [outdoors]  ~$0 (est.)
+   - Millennium Park  [outdoors]  ~$0 (est.)
+   - Lobby Bar at Palmer House  [nightlife]  ~$20 (est.)
+Day 2  (est. $0 per person)
+   - Chase Promenade  [outdoors]  ~$0 (est.)
+   - Jay Pritzker Pavilion  [outdoors]  ~$0 (est.)
+   - Wrigley Square  [outdoors]  ~$0 (est.)
+   - Grant Park  [outdoors]  ~$0 (est.)
+Day 3  (est. $85 per person)
+   - House of Blues  [nightlife]  ~$25 (est.)
+   - Billy Goat Tavern  [nightlife]  ~$20 (est.)
+   - The Green Door Tavern  [nightlife]  ~$20 (est.)
+   - Palm Court  [nightlife]  ~$20 (est.)
+Running total (est.): $105 per person
+=== ADAPTIVE ===
+Profile: outdoors_nightlife | interests: {'outdoors': 3, 'nightlife': 2} | budget/day: $120
+Day 1  (est. $20 per person)
+   - North Garden  [outdoors]  ~$0 (est.)
+   - Lurie Garden  [outdoors]  ~$0 (est.)
+   - Millennium Park  [outdoors]  ~$0 (est.)
+   - Lobby Bar at Palmer House  [nightlife]  ~$20 (est.)
+Day 2  (est. $0 per person)
+   - Chase Promenade  [outdoors]  ~$0 (est.)
+   - Jay Pritzker Pavilion  [outdoors]  ~$0 (est.)
+   - Wrigley Square  [outdoors]  ~$0 (est.)
+   - Grant Park  [outdoors]  ~$0 (est.)
+Day 3  (est. $85 per person)
+   - House of Blues  [nightlife]  ~$25 (est.)
+   - Billy Goat Tavern  [nightlife]  ~$20 (est.)
+   - The Green Door Tavern  [nightlife]  ~$20 (est.)
+   - Palm Court  [nightlife]  ~$20 (est.)
+Running total (est.): $105 per person
+
+##### scenario: Heavy rain
+=== STATIC ===
+Profile: outdoors_nightlife | interests: {'outdoors': 3, 'nightlife': 2} | budget/day: $120
+Day 1  (est. $20 per person)
+   - North Garden  [outdoors]  ~$0 (est.)
+   - Lurie Garden  [outdoors]  ~$0 (est.)
+   - Millennium Park  [outdoors]  ~$0 (est.)
+   - Lobby Bar at Palmer House  [nightlife]  ~$20 (est.)
+Day 2  (est. $0 per person)
+   - Chase Promenade  [outdoors]  ~$0 (est.)
+   - Jay Pritzker Pavilion  [outdoors]  ~$0 (est.)
+   - Wrigley Square  [outdoors]  ~$0 (est.)
+   - Grant Park  [outdoors]  ~$0 (est.)
+Day 3  (est. $85 per person)
+   - House of Blues  [nightlife]  ~$25 (est.)
+   - Billy Goat Tavern  [nightlife]  ~$20 (est.)
+   - The Green Door Tavern  [nightlife]  ~$20 (est.)
+   - Palm Court  [nightlife]  ~$20 (est.)
+Running total (est.): $105 per person
+=== ADAPTIVE ===
+Profile: outdoors_nightlife | interests: {'outdoors': 3, 'nightlife': 2} | budget/day: $120
+Day 1  (est. $95 per person)
+   - Lobby Bar at Palmer House  [nightlife]  ~$20 (est.)
+   - Friar's Inn  [nightlife]  ~$25 (est.)
+   - Velvet Lounge  [nightlife]  ~$25 (est.)
+   - Buddy Guy's Legends  [nightlife]  ~$25 (est.)
+Day 2  (est. $85 per person)
+   - House of Blues  [nightlife]  ~$25 (est.)
+   - Billy Goat Tavern  [nightlife]  ~$20 (est.)
+   - The Green Door Tavern  [nightlife]  ~$20 (est.)
+   - Palm Court  [nightlife]  ~$20 (est.)
+Day 3  (est. $90 per person)
+   - Navy Pier Beer Garden  [nightlife]  ~$20 (est.)
+   - Lincoln Hall  [nightlife]  ~$20 (est.)
+   - The Hideout  [nightlife]  ~$25 (est.)
+   - Double Door  [nightlife]  ~$25 (est.)
+Running total (est.): $270 per person
+
+##### scenario: Clear, 22C
+=== STATIC ===
+Profile: night_owl_foodie | interests: {'nightlife': 2, 'food': 2} | budget/day: $100
+Day 1  (est. $110 per person)  ** over budget **
+   - Marquette Inn  [food]  ~$30 (est.)
+   - Seven Lions  [food]  ~$30 (est.)
+   - Everest  [food]  ~$30 (est.)
+   - Lobby Bar at Palmer House  [nightlife]  ~$20 (est.)
+Day 2  (est. $84 per person)
+   - Market By The Blackstone  [food]  ~$12 (est.)
+   - The Park Grill  [food]  ~$30 (est.)
+   - McCormick Tribune Plaza & Ice Rink  [food]  ~$30 (est.)
+   - Intelligentsia Coffee  [food]  ~$12 (est.)
+Day 3  (est. $95 per person)
+   - One North Kitchen  [food]  ~$30 (est.)
+   - House of Blues  [nightlife]  ~$25 (est.)
+   - Billy Goat Tavern  [nightlife]  ~$20 (est.)
+   - The Green Door Tavern  [nightlife]  ~$20 (est.)
+Day 4  (est. $90 per person)
+   - Palm Court  [nightlife]  ~$20 (est.)
+   - Navy Pier Beer Garden  [nightlife]  ~$20 (est.)
+   - The Hideout  [nightlife]  ~$25 (est.)
+   - Double Door  [nightlife]  ~$25 (est.)
+Running total (est.): $379 per person
+=== ADAPTIVE ===
+Profile: night_owl_foodie | interests: {'nightlife': 2, 'food': 2} | budget/day: $100
+Day 1  (est. $92 per person)
+   - Seven Lions  [food]  ~$30 (est.)
+   - Everest  [food]  ~$30 (est.)
+   - Crain Communications Building  [food]  ~$12 (est.)
+   - Lobby Bar at Palmer House  [nightlife]  ~$20 (est.)
+Day 2  (est. $84 per person)
+   - Market By The Blackstone  [food]  ~$12 (est.)
+   - The Park Grill  [food]  ~$30 (est.)
+   - McCormick Tribune Plaza & Ice Rink  [food]  ~$30 (est.)
+   - Intelligentsia Coffee  [food]  ~$12 (est.)
+Day 3  (est. $95 per person)
+   - One North Kitchen  [food]  ~$30 (est.)
+   - House of Blues  [nightlife]  ~$25 (est.)
+   - Billy Goat Tavern  [nightlife]  ~$20 (est.)
+   - The Green Door Tavern  [nightlife]  ~$20 (est.)
+Day 4  (est. $90 per person)
+   - Palm Court  [nightlife]  ~$20 (est.)
+   - Navy Pier Beer Garden  [nightlife]  ~$20 (est.)
+   - The Hideout  [nightlife]  ~$25 (est.)
+   - Double Door  [nightlife]  ~$25 (est.)
+Running total (est.): $361 per person
+
+##### scenario: Heavy rain
+=== STATIC ===
+Profile: night_owl_foodie | interests: {'nightlife': 2, 'food': 2} | budget/day: $100
+Day 1  (est. $110 per person)  ** over budget **
+   - Marquette Inn  [food]  ~$30 (est.)
+   - Seven Lions  [food]  ~$30 (est.)
+   - Everest  [food]  ~$30 (est.)
+   - Lobby Bar at Palmer House  [nightlife]  ~$20 (est.)
+Day 2  (est. $84 per person)
+   - Market By The Blackstone  [food]  ~$12 (est.)
+   - The Park Grill  [food]  ~$30 (est.)
+   - McCormick Tribune Plaza & Ice Rink  [food]  ~$30 (est.)
+   - Intelligentsia Coffee  [food]  ~$12 (est.)
+Day 3  (est. $95 per person)
+   - One North Kitchen  [food]  ~$30 (est.)
+   - House of Blues  [nightlife]  ~$25 (est.)
+   - Billy Goat Tavern  [nightlife]  ~$20 (est.)
+   - The Green Door Tavern  [nightlife]  ~$20 (est.)
+Day 4  (est. $90 per person)
+   - Palm Court  [nightlife]  ~$20 (est.)
+   - Navy Pier Beer Garden  [nightlife]  ~$20 (est.)
+   - The Hideout  [nightlife]  ~$25 (est.)
+   - Double Door  [nightlife]  ~$25 (est.)
+Running total (est.): $379 per person
+=== ADAPTIVE ===
+Profile: night_owl_foodie | interests: {'nightlife': 2, 'food': 2} | budget/day: $100
+Day 1  (est. $92 per person)
+   - Seven Lions  [food]  ~$30 (est.)
+   - Everest  [food]  ~$30 (est.)
+   - Crain Communications Building  [food]  ~$12 (est.)
+   - Lobby Bar at Palmer House  [nightlife]  ~$20 (est.)
+Day 2  (est. $84 per person)
+   - Market By The Blackstone  [food]  ~$12 (est.)
+   - The Park Grill  [food]  ~$30 (est.)
+   - McCormick Tribune Plaza & Ice Rink  [food]  ~$30 (est.)
+   - Intelligentsia Coffee  [food]  ~$12 (est.)
+Day 3  (est. $95 per person)
+   - One North Kitchen  [food]  ~$30 (est.)
+   - House of Blues  [nightlife]  ~$25 (est.)
+   - Billy Goat Tavern  [nightlife]  ~$20 (est.)
+   - The Green Door Tavern  [nightlife]  ~$20 (est.)
+Day 4  (est. $90 per person)
+   - Palm Court  [nightlife]  ~$20 (est.)
+   - Navy Pier Beer Garden  [nightlife]  ~$20 (est.)
+   - The Hideout  [nightlife]  ~$25 (est.)
+   - Double Door  [nightlife]  ~$25 (est.)
+Running total (est.): $361 per person

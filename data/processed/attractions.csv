@@ -1,0 +1,201 @@
+xid,name,category,kinds,rate,has_wikidata,lat,lon,dist_m,popularity,est_price,price_is_estimate,hours,indoor
+N3502294529,Alinea,food,"restaurants,foods,tourist_facilities",3,True,41.91343688964844,-87.64820098876953,4211.46700451,1.0,30,True,,True
+N3502294527,Boka,food,"restaurants,foods,tourist_facilities",3,True,41.913639068603516,-87.64820098876953,4232.42897673,1.0,30,True,,True
+W210270035,Bottom Lounge,food,"foods,restaurants,tourist_facilities",3,True,41.88515090942383,-87.66180419921875,2769.44921791,1.0,30,True,,True
+N2623047864,Così,food,"foods,fast_food,tourist_facilities",3,True,41.885902404785156,-87.63119506835938,874.21702146,1.0,10,True,,True
+W210671717,Crain Communications Building,food,"foods,cafes,tourist_facilities",3,True,41.88480758666992,-87.62495422363281,846.57743504,1.0,12,True,,True
+Q48816144,Everest,food,"restaurants,foods,tourist_facilities",3,True,41.875999450683594,-87.6322021484375,306.74956928,1.0,30,True,,True
+N5457984148,Farmhouse Chicago,food,"foods,restaurants,tourist_facilities",3,True,41.89682388305664,-87.635498046875,2132.77144638,1.0,30,True,,True
+Q18748999,Grace,food,"restaurants,foods,tourist_facilities",3,True,41.88483428955078,-87.64488983154297,1458.74441802,1.0,30,True,,True
+W153320976,Harry Caray's Italian Steakhouse,food,"architecture,historic_architecture,interesting_places,restaurants,foods,tourist_facilities,other_buildings_and_structures",3,True,41.88899230957031,-87.62931823730469,1210.56220576,1.0,30,True,,True
+N1308260687,Intelligentsia Coffee,food,"foods,cafes,tourist_facilities",3,True,41.88435363769531,-87.62586212158203,767.74415607,1.0,12,True,,True
+N6326499095,Lavazza,food,"foods,cafes,tourist_facilities",3,True,41.89225769042969,-87.62609100341797,1602.31851767,1.0,12,True,,True
+N4060205624,Lawry's The Prime Rib,food,"foods,restaurants,tourist_facilities",3,True,41.893489837646484,-87.62503051757812,1754.69529219,1.0,30,True,,True
+W150864783,Lou Mitchell's Restaurant,food,"architecture,historic_architecture,interesting_places,restaurants,foods,tourist_facilities,other_buildings_and_structures",3,True,41.87781524658203,-87.64212036132812,1022.91542537,1.0,30,True,,True
+N6321527779,Market By The Blackstone,food,"accomodations,other_hotels,cafes,foods,tourist_facilities",3,True,41.87333297729492,-87.62470245361328,677.79604814,1.0,12,True,,True
+N1448920557,Marquette Inn,food,"architecture,historic_architecture,interesting_places,restaurants,foods,tourist_facilities,other_buildings_and_structures",3,True,41.87955093383789,-87.62979125976562,161.26974327,1.0,30,True,,True
+Q3303613,McCormick Tribune Plaza & Ice Rink,food,"restaurants,foods,tourist_facilities",3,True,41.8827018737793,-87.6238021850586,713.50123018,1.0,30,True,,True
+Q1928054,Michael Jordan's Restaurant,food,"restaurants,foods,tourist_facilities",3,True,41.891029357910156,-87.63288879394531,1458.61053738,1.0,30,True,,True
+Q14687892,Mirage Tavern,food,"restaurants,foods,tourist_facilities",3,True,41.895599365234375,-87.63410186767578,1976.2364149,1.0,30,True,,True
+N5458112400,New Rebozo Chicago,food,"foods,restaurants,tourist_facilities",3,True,41.89592361450195,-87.62643432617188,1999.49187356,1.0,30,True,,True
+N5295997076,One North Kitchen,food,"foods,restaurants,tourist_facilities",3,True,41.88235092163086,-87.6365966796875,735.52904825,1.0,30,True,,True
+N6297643296,Schwa,food,"restaurants,foods,tourist_facilities",3,True,41.90894317626953,-87.66788482666016,4661.00722427,1.0,30,True,,True
+N4728599335,Seven Lions,food,"foods,restaurants,tourist_facilities",3,True,41.878395080566406,-87.62508392333984,392.84275645,1.0,30,True,,True
+Q7533033,Sixteen,food,"restaurants,foods,tourist_facilities",3,True,41.888973236083984,-87.6265869140625,1236.75111283,1.0,30,True,,True
+N2819355827,State and Lake Chicago Tavern,food,"foods,restaurants,tourist_facilities",3,True,41.886199951171875,-87.627685546875,916.44964426,1.0,30,True,,True
+N3750517760,The Park Grill,food,"restaurants,foods,tourist_facilities",3,True,41.882686614990234,-87.62359619140625,724.11878779,1.0,30,True,,True
+W210321765,The Wiener Circle,food,"fast_food,restaurants,foods,tourist_facilities",3,True,41.930152893066406,-87.64381408691406,5897.50671081,1.0,30,True,,True
+N6304253435,The Wieners Circle,food,"restaurants,foods,tourist_facilities",3,True,41.930152893066406,-87.64381408691406,5897.29229473,1.0,30,True,,True
+N6397091037,Yolk - Marina City,food,"foods,restaurants,tourist_facilities",3,True,41.888519287109375,-87.62845611572266,1162.76202876,1.0,30,True,,True
+W148910721,Al's #1 Italian Beef,food,"foods,fast_food,tourist_facilities",2,True,41.87910079956055,-87.6427993774414,1084.63328351,0.7142857142857143,10,True,,True
+N6271908429,Argo Tea,food,"foods,cafes,tourist_facilities",2,True,41.896400451660156,-87.62096405029297,2160.97351839,0.7142857142857143,12,True,,True
+N8025846802,Aurelio's Pizza,food,"foods,restaurants,tourist_facilities",2,True,41.86722183227539,-87.62464904785156,1281.55690915,0.7142857142857143,30,True,,True
+N6273484387,Blackwood BBQ - Illinois Center,food,"foods,restaurants,tourist_facilities",2,True,41.886966705322266,-87.62322235107422,1126.01569071,0.7142857142857143,30,True,,True
+N4564443501,Chicago Pizza and Oven Grinder Co.,food,"restaurants,foods,tourist_facilities",2,True,41.92080307006836,-87.63732147216797,4783.96952829,0.7142857142857143,30,True,,True
+N3575225597,Frontera Grill,food,"restaurants,foods,tourist_facilities",2,True,41.89053726196289,-87.63092041015625,1384.50580319,0.7142857142857143,30,True,,True
+W159959826,Gino's East,food,"foods,restaurants,tourist_facilities",2,True,41.8960075378418,-87.62303161621094,2066.92606375,0.7142857142857143,30,True,,True
+N1951914730,Giordano's Pizzeria,food,"foods,restaurants,tourist_facilities",2,True,41.87797927856445,-87.63471221923828,407.66463836,0.7142857142857143,30,True,,True
+N2203666226,Greek Islands Restaurant,food,"restaurants,foods,tourist_facilities",2,True,41.87898635864258,-87.64750671386719,1473.29366773,0.7142857142857143,30,True,,True
+N8095615490,Harold's Chicken #88,food,"foods,fast_food,tourist_facilities",2,True,41.83123016357422,-87.62223052978516,5243.66369556,0.7142857142857143,10,True,,True
+N4465471490,Lettuce Entertain You Enterprises,food,"foods,restaurants,tourist_facilities",2,True,41.8898811340332,-87.62715148925781,1326.70811766,0.7142857142857143,30,True,,True
+W210535439,Maxwell Street Depot,food,"fast_food,restaurants,foods,tourist_facilities",2,True,41.83799743652344,-87.63713073730469,4495.49021775,0.7142857142857143,30,True,,True
+W220089987,McDonald's,food,"fast_food,restaurants,foods,tourist_facilities",2,True,41.892822265625,-87.63162231445312,1642.3961005,0.7142857142857143,30,True,,True
+N6322787575,Mon Ami Gabi,food,"restaurants,foods,tourist_facilities",2,True,41.924224853515625,-87.63702392578125,5157.9569948,0.7142857142857143,30,True,,True
+N3575173111,Next,food,"restaurants,foods,tourist_facilities",2,True,41.886592864990234,-87.65200805664062,2070.69051972,0.7142857142857143,30,True,,True
+N5460575190,Oriole,food,"restaurants,foods,tourist_facilities",2,True,41.88600540161133,-87.64510345458984,1543.96683448,0.7142857142857143,30,True,,True
+W395681262,Queen's Landing Concession,food,"foods,fast_food,tourist_facilities",2,True,41.875492095947266,-87.61642456054688,1147.72604589,0.7142857142857143,10,True,,True
+Q7276752,RIA,food,"restaurants,foods,tourist_facilities",2,True,41.899723052978516,-87.62750244140625,2409.17861044,0.7142857142857143,30,True,,True
+N6154694740,Rosati's Pizza,food,"foods,restaurants,tourist_facilities",2,True,41.86426544189453,-87.64669799804688,2080.69621975,0.7142857142857143,30,True,,True
+N4733127521,Sepia,food,"restaurants,foods,tourist_facilities",2,True,41.883941650390625,-87.64251708984375,1239.15187667,0.7142857142857143,30,True,,True
+N5460722827,Smyth,food,"foods,restaurants,tourist_facilities",2,True,41.88528060913086,-87.66058349609375,2676.70164211,0.7142857142857143,30,True,,True
+N368064192,The Berghoff Restaurant,food,"restaurants,foods,tourist_facilities",2,True,41.87926483154297,-87.62841796875,172.66807472,0.7142857142857143,30,True,,True
+W209846687,The Frontier,food,"restaurants,foods,tourist_facilities",2,True,41.90119934082031,-87.66358184814453,3800.43883177,0.7142857142857143,30,True,,True
+Q21410985,The Great Gritzbe's Flying Food Show,food,"restaurants,foods,tourist_facilities",2,True,41.898284912109375,-87.6272201538086,2252.149172,0.7142857142857143,30,True,,True
+Q7847093,Tru,food,"restaurants,foods,tourist_facilities",2,True,41.89444351196289,-87.62305450439453,1899.73848438,0.7142857142857143,30,True,,True
+W24825591,Adler Planetarium,museums,"planetariums,science_museums,cultural,museums,interesting_places",3,True,41.86636734008789,-87.60662841796875,2323.7576335,1.0,15,True,,True
+N3157154661,Amazing Chicago's Funhouse Maze,museums,"other_amusement_rides,children_museums,cultural,museums,interesting_places,amusements",3,True,41.89145278930664,-87.60623931884766,2454.49780123,1.0,15,True,,True
+N5169949885,American Writers Museum,museums,"cultural,museums,interesting_places,other_museums",3,True,41.8856086730957,-87.6249008178711,927.94053035,1.0,15,True,,True
+N6263057251,Art Institute of Chicago,museums,"cultural,museums,interesting_places,shops,bakeries,art_galleries,tourist_facilities",3,True,41.87937545776367,-87.62395477294922,505.2818691,1.0,15,True,,True
+Q4801437,Arts Club of Chicago,museums,"cultural,museums,interesting_places,art_galleries",3,True,41.89311218261719,-87.62239074707031,1777.14816222,1.0,15,True,,True
+Q4937134,Boeing Galleries,museums,"cultural,museums,gardens_and_parks,urban_environment,interesting_places,art_galleries",3,True,41.8827018737793,-87.6227035522461,779.97960409,1.0,15,True,,True
+W210537820,Chess Studio,museums,"cultural,museums,interesting_places,other_museums",3,True,41.853614807128906,-87.62422180175781,2758.7861816,1.0,15,True,,True
+N6423952898,Chicago Architecture Center,museums,"cultural,museums,interesting_places,local_museums",3,True,41.888092041015625,-87.62361907958984,1222.65536268,1.0,15,True,,True
+N7874287865,Chicago Children's Museum,museums,"children_museums,cultural,museums,interesting_places",3,True,41.89147186279297,-87.60919952392578,2264.62241593,1.0,15,True,,True
+Q24061530,Chicago Design Museum,museums,"museums,cultural,interesting_places,other_museums",3,True,41.88389587402344,-87.62846374511719,653.34420302,1.0,15,True,,True
+W23987046,Chicago History Museum,museums,"cultural,museums,interesting_places,history_museums",3,True,41.911991119384766,-87.63151550292969,3766.92332374,1.0,15,True,,True
+W210537354,Chinese American Museum of Chicago,museums,"cultural,museums,interesting_places,history_museums",3,True,41.85120391845703,-87.6335220336914,3003.38026641,1.0,15,True,,True
+N8379728467,Field Museum,museums,"science_museums,cultural,museums,interesting_places",3,True,41.86623764038086,-87.61701965332031,1691.86813498,1.0,15,True,,True
+N1586385054,Gene Siskel Film Center,museums,"cultural,cinemas,museums,theatres_and_entertainments,interesting_places,other_museums",3,True,41.88480758666992,-87.6282730102539,755.74907616,1.0,15,True,,True
+R2031807,Glessner House Museum,museums,"cultural,museums,interesting_places,other_museums",3,True,41.85771560668945,-87.62145233154297,2367.73354937,1.0,15,True,,True
+W150749377,Henry B. Clarke House,museums,"cultural,museums,interesting_places,other_museums",3,True,41.85707473754883,-87.62187957763672,2426.14140555,1.0,15,True,,True
+W210686215,International Museum of Surgical Science,museums,"science_museums,cultural,museums,interesting_places",3,True,41.910152435302734,-87.62693786621094,3568.0246208,1.0,15,True,,True
+W148902944,Jane Addams' Hull-House Museum,museums,"biographical_museums,historic_house_museums,cultural,museums,interesting_places,history_museums",3,True,41.87165069580078,-87.64739990234375,1626.95188962,1.0,15,True,,True
+N3660898208,Loyola University Museum of Art,museums,"cultural,museums,interesting_places,art_galleries",3,True,41.897315979003906,-87.62506866455078,2170.19021942,1.0,15,True,,True
+N2979738790,Money Museum,museums,"cultural,museums,interesting_places,other_museums,banks,bank,tourist_facilities",3,True,41.87833023071289,-87.632568359375,231.18749416,1.0,15,True,,True
+W24800223,Museum of Contemporary Art,museums,"cultural,museums,interesting_places,art_galleries",3,True,41.897220611572266,-87.62112426757812,2242.61717319,1.0,15,True,,True
+W181379030,National Hellenic Museum,museums,"cultural,museums,interesting_places,history_museums",3,True,41.87689971923828,-87.64688110351562,1423.99882721,1.0,15,True,,True
+W202372249,National Museum of Mexican Art,museums,"cultural,museums,interesting_places,art_galleries",3,True,41.85611343383789,-87.67298126220703,4337.73486206,1.0,15,True,,True
+Q7028434,Nickerson House,museums,"museums,cultural,interesting_places,art_galleries",3,True,41.89396667480469,-87.62677001953125,1780.25262514,1.0,15,True,,True
+N3652936567,Polish Museum of America,museums,"cultural,museums,interesting_places,history_museums",3,True,41.89967346191406,-87.66104888916016,3531.07642967,1.0,15,True,,True
+Q588030,Pritzker Military Museum & Library,museums,"museums,cultural,interesting_places,military_museums",3,True,41.88055419921875,-87.625,482.8432474,1.0,15,True,,True
+N4060205627,Richard H. Driehaus Museum,museums,"cultural,museums,interesting_places,art_galleries",3,True,41.894283294677734,-87.62650299072266,1818.34373181,1.0,15,True,,True
+W24825568,Shedd Aquarium,museums,"aquariums,urban_environment,gardens_and_parks,cultural,museums,interesting_places,zoos",3,True,41.8675422668457,-87.61368560791016,1779.00831798,1.0,15,True,,True
+R1870546,The Art Institute of Chicago,museums,"cultural,museums,interesting_places,art_galleries",3,True,41.879600524902344,-87.62308502197266,581.96356701,1.0,15,True,,True
+N3744841481,The Museum of Contemporary Photography,museums,"cultural,museums,interesting_places,art_galleries",3,True,41.87420654296875,-87.62451171875,616.02950984,1.0,15,True,,True
+W23986958,The Peggy Notebaert Nature Museum,museums,"cultural,museums,interesting_places,other_museums",3,True,41.92698287963867,-87.63542175292969,5449.48868299,1.0,15,True,,True
+N8520355484,Ukrainian National Museum,museums,"national_museums,cultural,museums,interesting_places",3,True,41.89460754394531,-87.68400573730469,4858.28729299,1.0,15,True,,True
+Q4650022,ABA Museum of Law,museums,"museums,cultural,interesting_places,other_museums",2,True,41.88819885253906,-87.63059997558594,1123.78073403,0.7142857142857143,15,True,,True
+Q48966124,Chicago Maritime Museum,museums,"museums,cultural,interesting_places,museums_of_science_and_technology,maritime_museums",2,True,41.8307991027832,-87.65630340576172,5695.87899019,0.7142857142857143,15,True,,True
+Q5518984,Gallery 400,museums,"cultural,museums,interesting_places,art_galleries",2,True,41.87649917602539,-87.64969635009766,1661.42554647,0.7142857142857143,15,True,,True
+W210308110,Intuit: The Center for Intuitive and Outsider Art,museums,"cultural,museums,interesting_places,art_galleries",2,True,41.895416259765625,-87.65455627441406,2814.37597876,0.7142857142857143,15,True,,True
+R5328430,Lincoln Park Zoo,museums,"urban_environment,gardens_and_parks,cultural,museums,interesting_places,zoos",2,True,41.9212646484375,-87.6337661743164,4805.66448717,0.7142857142857143,15,True,,True
+W153291623,Museum of Broadcast Communications,museums,"cultural,museums,interesting_places,museums_of_science_and_technology,other_technology_museums",2,True,41.88902282714844,-87.62860870361328,1217.30787043,0.7142857142857143,15,True,,True
+Q41573647,National Public Housing Museum,museums,"museums,cultural,interesting_places,other_museums",2,True,41.8696403503418,-87.65985870361328,2666.59001509,0.7142857142857143,15,True,,True
+Q1701386,National Radio Hall of Fame,museums,"museums,cultural,interesting_places,other_museums",2,True,41.88335037231445,-87.62512969970703,700.57782105,0.7142857142857143,15,True,,True
+Q17066093,Randolph Street Gallery,museums,"museums,cultural,interesting_places,art_galleries",2,True,41.88408279418945,-87.6495590209961,1769.35714829,0.7142857142857143,15,True,,True
+Q7545243,Smith Museum of Stained Glass Windows,museums,"museums,cultural,interesting_places,art_galleries",2,True,41.89144515991211,-87.60133361816406,2789.15377411,0.7142857142857143,15,True,,True
+Q7703108,Terra Museum of American Art,museums,"museums,cultural,interesting_places,art_galleries",2,True,41.89440155029297,-87.62460327148438,1861.1905689,0.7142857142857143,15,True,,True
+W209389536,Ukrainian Institute of Modern Art,museums,"cultural,museums,interesting_places,art_galleries",2,True,41.89598083496094,-87.68516540527344,5005.9396698,0.7142857142857143,15,True,,True
+N357044250,Billy Goat Tavern,nightlife,"pubs,foods,tourist_facilities",3,True,41.890254974365234,-87.62478637695312,1412.48172036,1.0,20,True,,True
+Q5299735,Double Door,nightlife,"concert_halls,cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,foods,bars,tourist_facilities",3,True,41.90999984741211,-87.677001953125,5281.78373417,1.0,25,True,,True
+W153328586,House of Blues,nightlife,"nightclubs,adult",3,True,41.888248443603516,-87.62909698486328,1128.70926767,1.0,25,True,,True
+W210321368,Lincoln Hall,nightlife,"cultural,cinemas,theatres_and_entertainments,interesting_places,music_venues,foods,bars,tourist_facilities",3,True,41.9259147644043,-87.64981079101562,5564.48342753,1.0,20,True,,True
+N4458262089,Lobby Bar at Palmer House,nightlife,"accomodations,other_hotels,foods,bars,tourist_facilities",3,True,41.880428314208984,-87.62674713134766,361.94222824,1.0,20,True,,True
+W752904680,Navy Pier Beer Garden,nightlife,"architecture,historic_architecture,interesting_places,foods,bars,tourist_facilities,other_buildings_and_structures",3,True,41.891632080078125,-87.60037994384766,2867.21627985,1.0,20,True,,True
+N6326487082,Palm Court,nightlife,"accomodations,other_hotels,foods,bars,tourist_facilities",3,True,41.900390625,-87.62345886230469,2531.37299768,1.0,20,True,,True
+W210680201,The Green Door Tavern,nightlife,"restaurants,foods,bars,tourist_facilities",3,True,41.894615173339844,-87.63740539550781,1939.844926,1.0,20,True,,True
+N6315597292,The Hideout,nightlife,"nightclubs,cultural,theatres_and_entertainments,interesting_places,adult,music_venues,foods,bars,tourist_facilities",3,True,41.913917541503906,-87.66263580322266,4821.98120532,1.0,25,True,,True
+N4731205522,Andy's Jazz,nightlife,"nightclubs,cultural,theatres_and_entertainments,interesting_places,adult,music_venues,foods,bars,tourist_facilities",2,True,41.88993453979492,-87.62736511230469,1330.02719776,0.7142857142857143,25,True,,True
+W149372353,Buddy Guy's Legends,nightlife,"nightclubs,adult",2,True,41.872955322265625,-87.6264419555664,635.75876083,0.7142857142857143,25,True,,True
+Q5094649,Chez Paree,nightlife,"theatres_and_entertainments,cultural,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",2,True,41.8931999206543,-87.62039947509766,1849.75830052,0.7142857142857143,25,True,,True
+Q1456058,Friar's Inn,nightlife,"cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",2,True,41.87710189819336,-87.62580108642578,350.12222034,0.7142857142857143,25,True,,True
+W210321648,Kingston Mines,nightlife,"foods,bars,tourist_facilities",2,True,41.9286994934082,-87.64920806884766,5846.38165904,0.7142857142857143,20,True,,True
+N7331716830,London House Chicago,nightlife,"accomodations,nightclubs,cultural,theatres_and_entertainments,interesting_places,adult,music_venues,other_hotels,foods,bars,tourist_facilities",2,True,41.887779235839844,-87.62535858154297,1136.60219789,0.7142857142857143,25,True,,True
+Q6880159,Mister Kelly's,nightlife,"cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",2,True,41.90140151977539,-87.62799835205078,2592.26573849,0.7142857142857143,25,True,,True
+Q7337009,Rive Gauche Nightclub,nightlife,"cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",2,True,41.8870849609375,-87.64772033691406,1791.23466539,0.7142857142857143,25,True,,True
+W210171238,Schaller's Pump,nightlife,"foods,bars,tourist_facilities",2,True,41.827152252197266,-87.64636993408203,5823.62679986,0.7142857142857143,20,True,,True
+Q2412168,The Jazz Showcase,nightlife,"cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",2,True,41.89139938354492,-87.63030242919922,1477.82772676,0.7142857142857143,25,True,,True
+Q7919410,Velvet Lounge,nightlife,"cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",2,True,41.88333511352539,-87.63333129882812,651.07003688,0.7142857142857143,25,True,,True
+Q1423025,Warehouse,nightlife,"nightclubs,adult,foods,bars,tourist_facilities",2,True,41.87889862060547,-87.6427993774414,1082.75852847,0.7142857142857143,25,True,,True
+Q16919553,West End,nightlife,"cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",2,True,41.91788864135742,-87.65797424316406,4999.65033436,0.7142857142857143,25,True,,True
+W23986661,Alfred Caldwell Lily Pool,outdoors,"urban_environment,gardens_and_parks,cultural,water,natural,interesting_places,nature_reserves,other_lakes,other_nature_conservation_areas",3,True,41.92475891113281,-87.63392639160156,5193.71639232,1.0,0,True,,False
+W157657340,Armour Square Park,outdoors,"historic,historical_places,urban_environment,gardens_and_parks,cultural,interesting_places,historic_districts",3,True,41.83378219604492,-87.63400268554688,4934.66808853,1.0,0,True,,False
+W157657341,Armour Square Park Field House,outdoors,"historic,historical_places,urban_environment,gardens_and_parks,cultural,interesting_places,historic_districts",3,True,41.83424377441406,-87.63504028320312,4890.51404224,1.0,0,True,,False
+W230783409,Burnham Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",3,True,41.82986068725586,-87.60360717773438,5782.53337263,1.0,0,True,,False
+R10601819,Cancer Survivors' Garden,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",3,True,41.88394546508789,-87.61746978759766,1212.06963369,1.0,0,True,,False
+Q5087188,Chase Promenade,outdoors,"gardens_and_parks,cultural,urban_environment,interesting_places",3,True,41.8827018737793,-87.6229019165039,767.5130769,1.0,0,True,,False
+Q5310023,DuSable Park,outdoors,"gardens_and_parks,cultural,urban_environment,interesting_places",3,True,41.889400482177734,-87.61329650878906,1857.65320311,1.0,0,True,,False
+N3536996073,Gold Star Families Memorial,outdoors,"historic,monuments_and_memorials,burial_places,urban_environment,gardens_and_parks,cultural,interesting_places,other_burial_places,monuments",3,True,41.8624382019043,-87.61410522460938,2173.36192964,1.0,0,True,,False
+W766733724,Gold Star Families Park,outdoors,"historic,monuments_and_memorials,burial_places,urban_environment,gardens_and_parks,cultural,interesting_places,other_burial_places,monuments",3,True,41.86270523071289,-87.61434173583984,2137.83942317,1.0,0,True,,False
+W235558732,Grant Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",3,True,41.87649154663086,-87.6192855834961,890.8876494,1.0,0,True,,False
+Q3180096,Jay Pritzker Pavilion,outdoors,"gardens_and_parks,cultural,urban_environment,interesting_places",3,True,41.882999420166016,-87.6218032836914,858.58040741,1.0,0,True,,False
+W23986733,Lincoln Park Conservatory,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",3,True,41.92441177368164,-87.63480377197266,5160.66617116,1.0,0,True,,False
+R10573331,Lincoln Park Conservatory Garden,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",3,True,41.92310333251953,-87.63529205322266,5019.28552142,1.0,0,True,,False
+W126945427,Lurie Garden,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",3,True,41.881431579589844,-87.6217041015625,767.21726088,1.0,0,True,,False
+W224231352,Maggie Daley Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",3,True,41.88272476196289,-87.61872863769531,1052.76637486,1.0,0,True,,False
+W23888253,Millennium Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",3,True,41.88257598876953,-87.6225357055664,781.42955983,1.0,0,True,,False
+Q1954441,Museum Campus,outdoors,"gardens_and_parks,cultural,urban_environment,interesting_places",3,True,41.86650085449219,-87.61409759521484,1832.6926058,1.0,0,True,,False
+W235227858,North Garden,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",3,True,41.88042449951172,-87.62382507324219,559.18042067,1.0,0,True,,False
+W23803745,Oak Street Beach,outdoors,"natural,interesting_places,beaches,other_beaches",3,True,41.902976989746094,-87.62287902832031,2821.99579579,1.0,0,True,,False
+R5240880,Ping Tom Memorial Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",3,True,41.85851287841797,-87.63262176513672,2188.31495379,1.0,0,True,,False
+W32827284,Pulaski Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",3,True,41.90612030029297,-87.6633071899414,4173.46076284,1.0,0,True,,False
+W31557387,Union Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",3,True,41.88350296020508,-87.66539001464844,3014.4332419,1.0,0,True,,False
+W130145603,Washington Square,outdoors,"historic,historical_places,urban_environment,gardens_and_parks,cultural,interesting_places,historic_districts",3,True,41.89926528930664,-87.63058471679688,2351.70975934,1.0,0,True,,False
+Q8038337,Wrigley Square,outdoors,"gardens_and_parks,cultural,urban_environment,interesting_places",3,True,41.883724212646484,-87.62379455566406,799.41635818,1.0,0,True,,False
+W203771990,Adams Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.916812896728516,-87.65508270263672,4784.3015207,0.7142857142857143,0,True,,False
+W134045254,Altgeld Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.874393463134766,-87.69259643554688,5228.8786615,0.7142857142857143,0,True,,False
+W134017011,Arrigo Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.871673583984375,-87.65984344482422,2594.31496872,0.7142857142857143,0,True,,False
+W31557365,Bickerdike Square Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.89228820800781,-87.66473388671875,3300.01082918,0.7142857142857143,0,True,,False
+W126547864,Bosley Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.8393440246582,-87.65402221679688,4751.0998809,0.7142857142857143,0,True,,False
+W139013800,Butler Field,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.87978744506836,-87.6191177368164,906.31090736,0.7142857142857143,0,True,,False
+N354097497,Campbell Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.87281036376953,-87.68172454833984,4349.92159353,0.7142857142857143,0,True,,False
+W504093803,Chicago Riverwalk,outdoors,"gardens_and_parks,cultural,urban_environment,interesting_places",2,True,41.887229919433594,-87.62721252441406,1036.73194618,0.7142857142857143,0,True,,False
+W164852049,Churchill Field Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.91447830200195,-87.67694091796875,5623.76903322,0.7142857142857143,0,True,,False
+W173529681,Claremont Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.87324523925781,-87.68540954589844,4647.77161852,0.7142857142857143,0,True,,False
+W176304285,Clover Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.9221305847168,-87.66357421875,5636.8466915,0.7142857142857143,0,True,,False
+W35799002,Clybourn Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.913230895996094,-87.65229034423828,4325.52084173,0.7142857142857143,0,True,,False
+W174049287,Commercial Club Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.89663314819336,-87.67365264892578,4181.3050361,0.7142857142857143,0,True,,False
+W178543471,Dean Playground,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.90691375732422,-87.6708755493164,4675.50290254,0.7142857142857143,0,True,,False
+W136341654,Dearborn Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.8709602355957,-87.62908172607422,795.10640046,0.7142857142857143,0,True,,False
+W131817706,Donovan Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.82811737060547,-87.6484603881836,5763.66901435,0.7142857142857143,0,True,,False
+W157655064,Dunbar Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.84022903442383,-87.6204605102539,4277.29236926,0.7142857142857143,0,True,,False
+R5240391,Durso Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.89820861816406,-87.63960266113281,2377.09665029,0.7142857142857143,0,True,,False
+W31925864,Dvorak Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.853878021240234,-87.65428924560547,3372.21779283,0.7142857142857143,0,True,,False
+W5732023,Eckhart Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.8970947265625,-87.66119384765625,3352.55595362,0.7142857142857143,0,True,,False
+W35332716,Ellis Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.82937240600586,-87.61071014404297,5639.41736989,0.7142857142857143,0,True,,False
+W31009592,Goudy Square Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.905582427978516,-87.62683868408203,3062.35541606,0.7142857142857143,0,True,,False
+W151464411,Groveland Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.83364486694336,-87.61026000976562,5197.60026142,0.7142857142857143,0,True,,False
+W168104071,Harrison Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.85678482055664,-87.67350769042969,4332.63412991,0.7142857142857143,0,True,,False
+W219051931,Jane Addams Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.86434555053711,-87.66380310058594,3209.70916487,0.7142857142857143,0,True,,False
+W167436110,John Wilson Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.831825256347656,-87.65450286865234,5533.68388813,0.7142857142857143,0,True,,False
+W28206058,Jonquil Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.92849349975586,-87.65470123291016,5966.50850105,0.7142857142857143,0,True,,False
+W131817878,Kucinski-Murphy Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.832984924316406,-87.66664123535156,5870.78459895,0.7142857142857143,0,True,,False
+W136339878,Lake Meadows Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.837162017822266,-87.61199188232422,4781.35175499,0.7142857142857143,0,True,,False
+W203771993,Lake Shore Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.89725112915039,-87.61962127685547,2288.88004492,0.7142857142857143,0,True,,False
+W185415594,Margaret Burroughs Beach,outdoors,"natural,interesting_places,beaches,other_beaches",2,True,41.83950424194336,-87.60674285888672,4694.98163711,0.7142857142857143,0,True,,False
+W130145598,Mariano Park,outdoors,"gardens_and_parks,cultural,urban_environment,interesting_places",2,True,41.90190124511719,-87.62818908691406,2646.83160853,0.7142857142857143,0,True,,False
+W157658422,McGuane Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.8408317565918,-87.64778900146484,4400.77446847,0.7142857142857143,0,True,,False
+W211039472,Milton Lee Olive Park,outdoors,"gardens_and_parks,cultural,urban_environment,interesting_places",2,True,41.894222259521484,-87.61034393310547,2411.45942751,0.7142857142857143,0,True,,False
+R12788474,North Avenue Beach,outdoors,"natural,interesting_places,beaches,other_beaches",2,True,41.91850662231445,-87.6280288696289,4490.42006328,0.7142857142857143,0,True,,False
+W28292473,Oz Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.92089080810547,-87.64566040039062,4931.78390215,0.7142857142857143,0,True,,False
+W293305743,Oz Park Garden,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.92158126831055,-87.64491271972656,4989.48293197,0.7142857142857143,0,True,,False
+W182320996,Park 399,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.907291412353516,-87.688720703125,5867.19556096,0.7142857142857143,0,True,,False
+W203771998,Park West Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.92884826660156,-87.64808654785156,5837.35404806,0.7142857142857143,0,True,,False
+N354224775,Prairie Avenue Historic District,outdoors,"historic,historical_places,urban_environment,gardens_and_parks,cultural,interesting_places,historic_districts",2,True,41.856441497802734,-87.62073516845703,2520.83880517,0.7142857142857143,0,True,,False
+W73687739,Pritzker Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.877471923828125,-87.62801361083984,163.80065363,0.7142857142857143,0,True,,False
+W136453896,Rockwell Gardens Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.87895965576172,-87.68720245361328,4766.05779115,0.7142857142857143,0,True,,False
+W85595093,Roosevelt Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.86811828613281,-87.6298828125,1108.82885167,0.7142857142857143,0,True,,False
+W143702456,Seneca Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.897178649902344,-87.62223815917969,2209.97916266,0.7142857142857143,0,True,,False
+W31009493,Seward Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.90239715576172,-87.63880920410156,2800.43673949,0.7142857142857143,0,True,,False
+W151428223,Sheridan Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.87105178833008,-87.6548080444336,2218.52597635,0.7142857142857143,0,True,,False
+W31557401,Skinner Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.87938690185547,-87.6607666015625,2574.43913119,0.7142857142857143,0,True,,False
+W126431895,Smith Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.892784118652344,-87.69044494628906,5291.36655236,0.7142857142857143,0,True,,False
+W173876971,Stanton Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.905723571777344,-87.6454086303711,3330.28613532,0.7142857142857143,0,True,,False
+W136339880,Stephen A. Douglas Monument Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.83149337768555,-87.60834503173828,5474.49188768,0.7142857142857143,0,True,,False
+W174049278,Superior Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.894691467285156,-87.67975616455078,4537.09814193,0.7142857142857143,0,True,,False
+W134017316,Thomas Jefferson Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.85919952392578,-87.64212036132812,2335.01675117,0.7142857142857143,0,True,,False
+W218369236,Throop Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.85739517211914,-87.65850830078125,3311.84231665,0.7142857142857143,0,True,,False
+W136454291,Touhy-Herbert Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.879337310791016,-87.67963409423828,4138.83729547,0.7142857142857143,0,True,,False
+W32827263,Walsh Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.91372299194336,-87.66842651367188,5092.22187367,0.7142857142857143,0,True,,False
+W174049282,Western Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.898006439208984,-87.68656921386719,5204.41936095,0.7142857142857143,0,True,,False
+W5732180,Wicker Park,outdoors,"urban_environment,gardens_and_parks,cultural,interesting_places",2,True,41.908050537109375,-87.6767349243164,5122.57775648,0.7142857142857143,0,True,,False

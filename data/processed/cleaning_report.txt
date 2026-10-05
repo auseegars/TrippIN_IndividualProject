@@ -1,0 +1,24 @@
+TrippIn cleaning report
+Destination: Chicago
+
+Raw records per category: food=76, outdoors=84, museums=44, nightlife=22
+Dropped unnamed places: 0
+Dropped places missing coordinates/id: 0
+Dropped duplicate ids (same place in 2+ categories): 23
+Dropped repeated names (e.g. chains): 3
+
+Final clean records: 200
+Records per category:
+  outdoors: 81
+  food: 53
+  museums: 44
+  nightlife: 22
+
+Missing data (known gaps):
+  hours: 100% missing (not provided by OpenTripMap)
+  price: 100% estimated from category/kind lookup, not sourced
+  places with Wikidata entry: 100%
+
+Popularity rate distribution:
+  rate 2: 107
+  rate 3: 93

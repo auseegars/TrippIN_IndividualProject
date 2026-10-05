@@ -1,0 +1,1088 @@
+[
+  {
+    "xid": "W73687739",
+    "name": "Pritzker Park",
+    "dist": 163.80065363,
+    "rate": 2,
+    "osm": "way/73687739",
+    "wikidata": "Q49546246",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.62801361083984,
+      "lat": 41.877471923828125
+    }
+  },
+  {
+    "xid": "W235227858",
+    "name": "North Garden",
+    "dist": 559.18042067,
+    "rate": 3,
+    "osm": "way/235227858",
+    "wikidata": "Q3267751",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.62382507324219,
+      "lat": 41.88042449951172
+    }
+  },
+  {
+    "xid": "W126945427",
+    "name": "Lurie Garden",
+    "dist": 767.21726088,
+    "rate": 3,
+    "osm": "way/126945427",
+    "wikidata": "Q3267751",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6217041015625,
+      "lat": 41.881431579589844
+    }
+  },
+  {
+    "xid": "Q5087188",
+    "name": "Chase Promenade",
+    "dist": 767.5130769,
+    "rate": 3,
+    "wikidata": "Q5087188",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": -87.6229019165039,
+      "lat": 41.8827018737793
+    }
+  },
+  {
+    "xid": "Q4937134",
+    "name": "Boeing Galleries",
+    "dist": 779.97960409,
+    "rate": 3,
+    "wikidata": "Q4937134",
+    "kinds": "cultural,museums,gardens_and_parks,urban_environment,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.6227035522461,
+      "lat": 41.8827018737793
+    }
+  },
+  {
+    "xid": "W23888253",
+    "name": "Millennium Park",
+    "dist": 781.42955983,
+    "rate": 3,
+    "osm": "way/23888253",
+    "wikidata": "Q1130516",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6225357055664,
+      "lat": 41.88257598876953
+    }
+  },
+  {
+    "xid": "W136341654",
+    "name": "Dearborn Park",
+    "dist": 795.10640046,
+    "rate": 2,
+    "osm": "way/136341654",
+    "wikidata": "Q49482366",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.62908172607422,
+      "lat": 41.8709602355957
+    }
+  },
+  {
+    "xid": "Q8038337",
+    "name": "Wrigley Square",
+    "dist": 799.41635818,
+    "rate": 3,
+    "wikidata": "Q8038337",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": -87.62379455566406,
+      "lat": 41.883724212646484
+    }
+  },
+  {
+    "xid": "Q3180096",
+    "name": "Jay Pritzker Pavilion",
+    "dist": 858.58040741,
+    "rate": 3,
+    "wikidata": "Q3180096",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": -87.6218032836914,
+      "lat": 41.882999420166016
+    }
+  },
+  {
+    "xid": "W235558732",
+    "name": "Grant Park",
+    "dist": 890.8876494,
+    "rate": 7,
+    "osm": "way/235558732",
+    "wikidata": "Q159085",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6192855834961,
+      "lat": 41.87649154663086
+    }
+  },
+  {
+    "xid": "W139013800",
+    "name": "Butler Field",
+    "dist": 906.31090736,
+    "rate": 2,
+    "osm": "way/139013800",
+    "wikidata": "Q34844227",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6191177368164,
+      "lat": 41.87978744506836
+    }
+  },
+  {
+    "xid": "W504093803",
+    "name": "Chicago Riverwalk",
+    "dist": 1036.73194618,
+    "rate": 2,
+    "osm": "way/504093803",
+    "wikidata": "Q5095770",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": -87.62721252441406,
+      "lat": 41.887229919433594
+    }
+  },
+  {
+    "xid": "W224231352",
+    "name": "Maggie Daley Park",
+    "dist": 1052.76637486,
+    "rate": 3,
+    "osm": "way/224231352",
+    "wikidata": "Q17080119",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.61872863769531,
+      "lat": 41.88272476196289
+    }
+  },
+  {
+    "xid": "W85595093",
+    "name": "Roosevelt Park",
+    "dist": 1108.82885167,
+    "rate": 2,
+    "osm": "way/85595093",
+    "wikidata": "Q49553441",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6298828125,
+      "lat": 41.86811828613281
+    }
+  },
+  {
+    "xid": "R10601819",
+    "name": "Cancer Survivors' Garden",
+    "dist": 1212.06963369,
+    "rate": 3,
+    "osm": "relation/10601819",
+    "wikidata": "Q24435784",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.61746978759766,
+      "lat": 41.88394546508789
+    }
+  },
+  {
+    "xid": "W24825568",
+    "name": "Shedd Aquarium",
+    "dist": 1779.00831798,
+    "rate": 7,
+    "osm": "way/24825568",
+    "wikidata": "Q2166515",
+    "kinds": "aquariums,urban_environment,gardens_and_parks,cultural,museums,interesting_places,zoos",
+    "point": {
+      "lon": -87.61368560791016,
+      "lat": 41.8675422668457
+    }
+  },
+  {
+    "xid": "Q1954441",
+    "name": "Museum Campus",
+    "dist": 1832.6926058,
+    "rate": 3,
+    "wikidata": "Q1954441",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": -87.61409759521484,
+      "lat": 41.86650085449219
+    }
+  },
+  {
+    "xid": "Q5310023",
+    "name": "DuSable Park",
+    "dist": 1857.65320311,
+    "rate": 3,
+    "wikidata": "Q5310023",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": -87.61329650878906,
+      "lat": 41.889400482177734
+    }
+  },
+  {
+    "xid": "W766733724",
+    "name": "Gold Star Families Park",
+    "dist": 2137.83942317,
+    "rate": 3,
+    "osm": "way/766733724",
+    "wikidata": "Q29347342",
+    "kinds": "historic,monuments_and_memorials,burial_places,urban_environment,gardens_and_parks,cultural,interesting_places,other_burial_places,monuments",
+    "point": {
+      "lon": -87.61434173583984,
+      "lat": 41.86270523071289
+    }
+  },
+  {
+    "xid": "N3536996073",
+    "name": "Gold Star Families Memorial",
+    "dist": 2173.36192964,
+    "rate": 3,
+    "osm": "node/3536996073",
+    "wikidata": "Q29347342",
+    "kinds": "historic,monuments_and_memorials,burial_places,urban_environment,gardens_and_parks,cultural,interesting_places,other_burial_places,monuments",
+    "point": {
+      "lon": -87.61410522460938,
+      "lat": 41.8624382019043
+    }
+  },
+  {
+    "xid": "R5240880",
+    "name": "Ping Tom Memorial Park",
+    "dist": 2188.31495379,
+    "rate": 3,
+    "osm": "relation/5240880",
+    "wikidata": "Q3388707",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.63262176513672,
+      "lat": 41.85851287841797
+    }
+  },
+  {
+    "xid": "W143702456",
+    "name": "Seneca Park",
+    "dist": 2209.97916266,
+    "rate": 2,
+    "osm": "way/143702456",
+    "wikidata": "Q49559599",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.62223815917969,
+      "lat": 41.897178649902344
+    }
+  },
+  {
+    "xid": "W151428223",
+    "name": "Sheridan Park",
+    "dist": 2218.52597635,
+    "rate": 2,
+    "osm": "way/151428223",
+    "wikidata": "Q49560945",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6548080444336,
+      "lat": 41.87105178833008
+    }
+  },
+  {
+    "xid": "W203771993",
+    "name": "Lake Shore Park",
+    "dist": 2288.88004492,
+    "rate": 2,
+    "osm": "way/203771993",
+    "wikidata": "Q49513667",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.61962127685547,
+      "lat": 41.89725112915039
+    }
+  },
+  {
+    "xid": "W134017316",
+    "name": "Thomas Jefferson Park",
+    "dist": 2335.01675117,
+    "rate": 2,
+    "osm": "way/134017316",
+    "wikidata": "Q49507258",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.64212036132812,
+      "lat": 41.85919952392578
+    }
+  },
+  {
+    "xid": "W130145603",
+    "name": "Washington Square",
+    "dist": 2351.70975934,
+    "rate": 7,
+    "osm": "way/130145603",
+    "wikidata": "Q7972217",
+    "kinds": "historic,historical_places,urban_environment,gardens_and_parks,cultural,interesting_places,historic_districts",
+    "point": {
+      "lon": -87.63058471679688,
+      "lat": 41.89926528930664
+    }
+  },
+  {
+    "xid": "R5240391",
+    "name": "Durso Park",
+    "dist": 2377.09665029,
+    "rate": 2,
+    "osm": "relation/5240391",
+    "wikidata": "Q49484628",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.63960266113281,
+      "lat": 41.89820861816406
+    }
+  },
+  {
+    "xid": "W211039472",
+    "name": "Milton Lee Olive Park",
+    "dist": 2411.45942751,
+    "rate": 2,
+    "osm": "way/211039472",
+    "wikidata": "Q28225938",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": -87.61034393310547,
+      "lat": 41.894222259521484
+    }
+  },
+  {
+    "xid": "N354224775",
+    "name": "Prairie Avenue Historic District",
+    "dist": 2520.83880517,
+    "rate": 2,
+    "osm": "node/354224775",
+    "wikidata": "Q49545721",
+    "kinds": "historic,historical_places,urban_environment,gardens_and_parks,cultural,interesting_places,historic_districts",
+    "point": {
+      "lon": -87.62073516845703,
+      "lat": 41.856441497802734
+    }
+  },
+  {
+    "xid": "W31557401",
+    "name": "Skinner Park",
+    "dist": 2574.43913119,
+    "rate": 2,
+    "osm": "way/31557401",
+    "wikidata": "Q49562196",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6607666015625,
+      "lat": 41.87938690185547
+    }
+  },
+  {
+    "xid": "W134017011",
+    "name": "Arrigo Park",
+    "dist": 2594.31496872,
+    "rate": 2,
+    "osm": "way/134017011",
+    "wikidata": "Q34809783",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.65984344482422,
+      "lat": 41.871673583984375
+    }
+  },
+  {
+    "xid": "W130145598",
+    "name": "Mariano Park",
+    "dist": 2646.83160853,
+    "rate": 2,
+    "osm": "way/130145598",
+    "wikidata": "Q49521656",
+    "kinds": "gardens_and_parks,cultural,urban_environment,interesting_places",
+    "point": {
+      "lon": -87.62818908691406,
+      "lat": 41.90190124511719
+    }
+  },
+  {
+    "xid": "W31009493",
+    "name": "Seward Park",
+    "dist": 2800.43673949,
+    "rate": 2,
+    "osm": "way/31009493",
+    "wikidata": "Q49559994",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.63880920410156,
+      "lat": 41.90239715576172
+    }
+  },
+  {
+    "xid": "W23803745",
+    "name": "Oak Street Beach",
+    "dist": 2821.99579579,
+    "rate": 3,
+    "osm": "way/23803745",
+    "wikidata": "Q3347844",
+    "kinds": "natural,interesting_places,beaches,other_beaches",
+    "point": {
+      "lon": -87.62287902832031,
+      "lat": 41.902976989746094
+    }
+  },
+  {
+    "xid": "W31557387",
+    "name": "Union Park",
+    "dist": 3014.4332419,
+    "rate": 3,
+    "osm": "way/31557387",
+    "wikidata": "Q7885939",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.66539001464844,
+      "lat": 41.88350296020508
+    }
+  },
+  {
+    "xid": "W31009592",
+    "name": "Goudy Square Park",
+    "dist": 3062.35541606,
+    "rate": 2,
+    "osm": "way/31009592",
+    "wikidata": "Q34883174",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.62683868408203,
+      "lat": 41.905582427978516
+    }
+  },
+  {
+    "xid": "W219051931",
+    "name": "Jane Addams Park",
+    "dist": 3209.70916487,
+    "rate": 2,
+    "osm": "way/219051931",
+    "wikidata": "Q34804113",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.66380310058594,
+      "lat": 41.86434555053711
+    }
+  },
+  {
+    "xid": "W31557365",
+    "name": "Bickerdike Square Park",
+    "dist": 3300.01082918,
+    "rate": 2,
+    "osm": "way/31557365",
+    "wikidata": "Q34827635",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.66473388671875,
+      "lat": 41.89228820800781
+    }
+  },
+  {
+    "xid": "W218369236",
+    "name": "Throop Park",
+    "dist": 3311.84231665,
+    "rate": 2,
+    "osm": "way/218369236",
+    "wikidata": "Q49570582",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.65850830078125,
+      "lat": 41.85739517211914
+    }
+  },
+  {
+    "xid": "W173876971",
+    "name": "Stanton Park",
+    "dist": 3330.28613532,
+    "rate": 2,
+    "osm": "way/173876971",
+    "wikidata": "Q49565258",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6454086303711,
+      "lat": 41.905723571777344
+    }
+  },
+  {
+    "xid": "W5732023",
+    "name": "Eckhart Park",
+    "dist": 3352.55595362,
+    "rate": 2,
+    "osm": "way/5732023",
+    "wikidata": "Q34873096",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.66119384765625,
+      "lat": 41.8970947265625
+    }
+  },
+  {
+    "xid": "W31925864",
+    "name": "Dvorak Park",
+    "dist": 3372.21779283,
+    "rate": 2,
+    "osm": "way/31925864",
+    "wikidata": "Q49484676",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.65428924560547,
+      "lat": 41.853878021240234
+    }
+  },
+  {
+    "xid": "W136454291",
+    "name": "Touhy-Herbert Park",
+    "dist": 4138.83729547,
+    "rate": 2,
+    "osm": "way/136454291",
+    "wikidata": "Q49571352",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.67963409423828,
+      "lat": 41.879337310791016
+    }
+  },
+  {
+    "xid": "W32827284",
+    "name": "Pulaski Park",
+    "dist": 4173.46076284,
+    "rate": 7,
+    "osm": "way/32827284",
+    "wikidata": "Q7259213",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6633071899414,
+      "lat": 41.90612030029297
+    }
+  },
+  {
+    "xid": "W174049287",
+    "name": "Commercial Club Park",
+    "dist": 4181.3050361,
+    "rate": 2,
+    "osm": "way/174049287",
+    "wikidata": "Q49479480",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.67365264892578,
+      "lat": 41.89663314819336
+    }
+  },
+  {
+    "xid": "W157655064",
+    "name": "Dunbar Park",
+    "dist": 4277.29236926,
+    "rate": 2,
+    "osm": "way/157655064",
+    "wikidata": "Q3041211",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6204605102539,
+      "lat": 41.84022903442383
+    }
+  },
+  {
+    "xid": "W168104071",
+    "name": "Harrison Park",
+    "dist": 4332.63412991,
+    "rate": 2,
+    "osm": "way/168104071",
+    "wikidata": "Q34886234",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.67350769042969,
+      "lat": 41.85678482055664
+    }
+  },
+  {
+    "xid": "W35799002",
+    "name": "Clybourn Park",
+    "dist": 4325.52084173,
+    "rate": 2,
+    "osm": "way/35799002",
+    "wikidata": "Q49478685",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.65229034423828,
+      "lat": 41.913230895996094
+    }
+  },
+  {
+    "xid": "N354097497",
+    "name": "Campbell Park",
+    "dist": 4349.92159353,
+    "rate": 2,
+    "osm": "node/354097497",
+    "wikidata": "Q34845956",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.68172454833984,
+      "lat": 41.87281036376953
+    }
+  },
+  {
+    "xid": "W157658422",
+    "name": "McGuane Park",
+    "dist": 4400.77446847,
+    "rate": 2,
+    "osm": "way/157658422",
+    "wikidata": "Q49523651",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.64778900146484,
+      "lat": 41.8408317565918
+    }
+  },
+  {
+    "xid": "R12788474",
+    "name": "North Avenue Beach",
+    "dist": 4490.42006328,
+    "rate": 2,
+    "osm": "relation/12788474",
+    "wikidata": "Q33327826",
+    "kinds": "natural,interesting_places,beaches,other_beaches",
+    "point": {
+      "lon": -87.6280288696289,
+      "lat": 41.91850662231445
+    }
+  },
+  {
+    "xid": "W174049278",
+    "name": "Superior Park",
+    "dist": 4537.09814193,
+    "rate": 2,
+    "osm": "way/174049278",
+    "wikidata": "Q49568104",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.67975616455078,
+      "lat": 41.894691467285156
+    }
+  },
+  {
+    "xid": "W173529681",
+    "name": "Claremont Park",
+    "dist": 4647.77161852,
+    "rate": 2,
+    "osm": "way/173529681",
+    "wikidata": "Q34853205",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.68540954589844,
+      "lat": 41.87324523925781
+    }
+  },
+  {
+    "xid": "W178543471",
+    "name": "Dean Playground",
+    "dist": 4675.50290254,
+    "rate": 2,
+    "osm": "way/178543471",
+    "wikidata": "Q49482339",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6708755493164,
+      "lat": 41.90691375732422
+    }
+  },
+  {
+    "xid": "W185415594",
+    "name": "Margaret Burroughs Beach",
+    "dist": 4694.98163711,
+    "rate": 2,
+    "osm": "way/185415594",
+    "wikidata": "Q33346010",
+    "kinds": "natural,interesting_places,beaches,other_beaches",
+    "point": {
+      "lon": -87.60674285888672,
+      "lat": 41.83950424194336
+    }
+  },
+  {
+    "xid": "W126547864",
+    "name": "Bosley Park",
+    "dist": 4751.0998809,
+    "rate": 2,
+    "osm": "way/126547864",
+    "wikidata": "Q34903540",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.65402221679688,
+      "lat": 41.8393440246582
+    }
+  },
+  {
+    "xid": "W136453896",
+    "name": "Rockwell Gardens Park",
+    "dist": 4766.05779115,
+    "rate": 2,
+    "osm": "way/136453896",
+    "wikidata": "Q49552760",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.68720245361328,
+      "lat": 41.87895965576172
+    }
+  },
+  {
+    "xid": "W136339878",
+    "name": "Lake Meadows Park",
+    "dist": 4781.35175499,
+    "rate": 2,
+    "osm": "way/136339878",
+    "wikidata": "Q49513434",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.61199188232422,
+      "lat": 41.837162017822266
+    }
+  },
+  {
+    "xid": "W203771990",
+    "name": "Adams Park",
+    "dist": 4784.3015207,
+    "rate": 2,
+    "osm": "way/203771990",
+    "wikidata": "Q34804120",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.65508270263672,
+      "lat": 41.916812896728516
+    }
+  },
+  {
+    "xid": "R5328430",
+    "name": "Lincoln Park Zoo",
+    "dist": 4805.66448717,
+    "rate": 2,
+    "osm": "relation/5328430",
+    "wikidata": "Q3241309",
+    "kinds": "urban_environment,gardens_and_parks,cultural,museums,interesting_places,zoos",
+    "point": {
+      "lon": -87.6337661743164,
+      "lat": 41.9212646484375
+    }
+  },
+  {
+    "xid": "W157657341",
+    "name": "Armour Square Park Field House",
+    "dist": 4890.51404224,
+    "rate": 7,
+    "osm": "way/157657341",
+    "wikidata": "Q4793784",
+    "kinds": "historic,historical_places,urban_environment,gardens_and_parks,cultural,interesting_places,historic_districts",
+    "point": {
+      "lon": -87.63504028320312,
+      "lat": 41.83424377441406
+    }
+  },
+  {
+    "xid": "W28292473",
+    "name": "Oz Park",
+    "dist": 4931.78390215,
+    "rate": 2,
+    "osm": "way/28292473",
+    "wikidata": "Q7116423",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.64566040039062,
+      "lat": 41.92089080810547
+    }
+  },
+  {
+    "xid": "W157657340",
+    "name": "Armour Square Park",
+    "dist": 4934.66808853,
+    "rate": 7,
+    "osm": "way/157657340",
+    "wikidata": "Q4793784",
+    "kinds": "historic,historical_places,urban_environment,gardens_and_parks,cultural,interesting_places,historic_districts",
+    "point": {
+      "lon": -87.63400268554688,
+      "lat": 41.83378219604492
+    }
+  },
+  {
+    "xid": "W293305743",
+    "name": "Oz Park Garden",
+    "dist": 4989.48293197,
+    "rate": 2,
+    "osm": "way/293305743",
+    "wikidata": "Q7116423",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.64491271972656,
+      "lat": 41.92158126831055
+    }
+  },
+  {
+    "xid": "R10573331",
+    "name": "Lincoln Park Conservatory Garden",
+    "dist": 5019.28552142,
+    "rate": 3,
+    "osm": "relation/10573331",
+    "wikidata": "Q3241308",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.63529205322266,
+      "lat": 41.92310333251953
+    }
+  },
+  {
+    "xid": "W32827263",
+    "name": "Walsh Park",
+    "dist": 5092.22187367,
+    "rate": 2,
+    "osm": "way/32827263",
+    "wikidata": "Q49576549",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.66842651367188,
+      "lat": 41.91372299194336
+    }
+  },
+  {
+    "xid": "W5732180",
+    "name": "Wicker Park",
+    "dist": 5122.57775648,
+    "rate": 2,
+    "osm": "way/5732180",
+    "wikidata": "Q7998336",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6767349243164,
+      "lat": 41.908050537109375
+    }
+  },
+  {
+    "xid": "W23986733",
+    "name": "Lincoln Park Conservatory",
+    "dist": 5160.66617116,
+    "rate": 3,
+    "osm": "way/23986733",
+    "wikidata": "Q3241308",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.63480377197266,
+      "lat": 41.92441177368164
+    }
+  },
+  {
+    "xid": "W174049282",
+    "name": "Western Park",
+    "dist": 5204.41936095,
+    "rate": 2,
+    "osm": "way/174049282",
+    "wikidata": "Q49579277",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.68656921386719,
+      "lat": 41.898006439208984
+    }
+  },
+  {
+    "xid": "W23986661",
+    "name": "Alfred Caldwell Lily Pool",
+    "dist": 5193.71639232,
+    "rate": 7,
+    "osm": "way/23986661",
+    "wikidata": "Q4722415",
+    "kinds": "urban_environment,gardens_and_parks,cultural,water,natural,interesting_places,nature_reserves,other_lakes,other_nature_conservation_areas",
+    "point": {
+      "lon": -87.63392639160156,
+      "lat": 41.92475891113281
+    }
+  },
+  {
+    "xid": "W151464411",
+    "name": "Groveland Park",
+    "dist": 5197.60026142,
+    "rate": 2,
+    "osm": "way/151464411",
+    "wikidata": "Q34885002",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.61026000976562,
+      "lat": 41.83364486694336
+    }
+  },
+  {
+    "xid": "W134045254",
+    "name": "Altgeld Park",
+    "dist": 5228.8786615,
+    "rate": 2,
+    "osm": "way/134045254",
+    "wikidata": "Q34806691",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.69259643554688,
+      "lat": 41.874393463134766
+    }
+  },
+  {
+    "xid": "W126431895",
+    "name": "Smith Park",
+    "dist": 5291.36655236,
+    "rate": 2,
+    "osm": "way/126431895",
+    "wikidata": "Q49562566",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.69044494628906,
+      "lat": 41.892784118652344
+    }
+  },
+  {
+    "xid": "W136339880",
+    "name": "Stephen A. Douglas Monument Park",
+    "dist": 5474.49188768,
+    "rate": 2,
+    "osm": "way/136339880",
+    "wikidata": "Q49483975",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.60834503173828,
+      "lat": 41.83149337768555
+    }
+  },
+  {
+    "xid": "W167436110",
+    "name": "John Wilson Park",
+    "dist": 5533.68388813,
+    "rate": 2,
+    "osm": "way/167436110",
+    "wikidata": "Q49581809",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.65450286865234,
+      "lat": 41.831825256347656
+    }
+  },
+  {
+    "xid": "W164852049",
+    "name": "Churchill Field Park",
+    "dist": 5623.76903322,
+    "rate": 2,
+    "osm": "way/164852049",
+    "wikidata": "Q34926053",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.67694091796875,
+      "lat": 41.91447830200195
+    }
+  },
+  {
+    "xid": "W176304285",
+    "name": "Clover Park",
+    "dist": 5636.8466915,
+    "rate": 2,
+    "osm": "way/176304285",
+    "wikidata": "Q49478651",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.66357421875,
+      "lat": 41.9221305847168
+    }
+  },
+  {
+    "xid": "W35332716",
+    "name": "Ellis Park",
+    "dist": 5639.41736989,
+    "rate": 2,
+    "osm": "way/35332716",
+    "wikidata": "Q34873923",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.61071014404297,
+      "lat": 41.82937240600586
+    }
+  },
+  {
+    "xid": "W131817706",
+    "name": "Donovan Park",
+    "dist": 5763.66901435,
+    "rate": 2,
+    "osm": "way/131817706",
+    "wikidata": "Q49483760",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.6484603881836,
+      "lat": 41.82811737060547
+    }
+  },
+  {
+    "xid": "W230783409",
+    "name": "Burnham Park",
+    "dist": 5782.53337263,
+    "rate": 3,
+    "osm": "way/230783409",
+    "wikidata": "Q1062693",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.60360717773438,
+      "lat": 41.82986068725586
+    }
+  },
+  {
+    "xid": "W203771998",
+    "name": "Park West Park",
+    "dist": 5837.35404806,
+    "rate": 2,
+    "osm": "way/203771998",
+    "wikidata": "Q49539437",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.64808654785156,
+      "lat": 41.92884826660156
+    }
+  },
+  {
+    "xid": "W182320996",
+    "name": "Park 399",
+    "dist": 5867.19556096,
+    "rate": 2,
+    "osm": "way/182320996",
+    "wikidata": "Q49539254",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.688720703125,
+      "lat": 41.907291412353516
+    }
+  },
+  {
+    "xid": "W131817878",
+    "name": "Kucinski-Murphy Park",
+    "dist": 5870.78459895,
+    "rate": 2,
+    "osm": "way/131817878",
+    "wikidata": "Q49537059",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.66664123535156,
+      "lat": 41.832984924316406
+    }
+  },
+  {
+    "xid": "W28206058",
+    "name": "Jonquil Park",
+    "dist": 5966.50850105,
+    "rate": 2,
+    "osm": "way/28206058",
+    "wikidata": "Q34914434",
+    "kinds": "urban_environment,gardens_and_parks,cultural,interesting_places",
+    "point": {
+      "lon": -87.65470123291016,
+      "lat": 41.92849349975586
+    }
+  }
+]

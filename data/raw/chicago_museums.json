@@ -1,0 +1,561 @@
+[
+  {
+    "xid": "N2979738790",
+    "name": "Money Museum",
+    "dist": 231.18749416,
+    "rate": 3,
+    "osm": "node/2979738790",
+    "wikidata": "Q965251",
+    "kinds": "cultural,museums,interesting_places,other_museums,banks,bank,tourist_facilities",
+    "point": {
+      "lon": -87.632568359375,
+      "lat": 41.87833023071289
+    }
+  },
+  {
+    "xid": "Q588030",
+    "name": "Pritzker Military Museum & Library",
+    "dist": 482.8432474,
+    "rate": 3,
+    "wikidata": "Q588030",
+    "kinds": "museums,cultural,interesting_places,military_museums",
+    "point": {
+      "lon": -87.625,
+      "lat": 41.88055419921875
+    }
+  },
+  {
+    "xid": "N6263057251",
+    "name": "Art Institute of Chicago",
+    "dist": 505.2818691,
+    "rate": 3,
+    "osm": "node/6263057251",
+    "wikidata": "Q239303",
+    "kinds": "cultural,museums,interesting_places,shops,bakeries,art_galleries,tourist_facilities",
+    "point": {
+      "lon": -87.62395477294922,
+      "lat": 41.87937545776367
+    }
+  },
+  {
+    "xid": "R1870546",
+    "name": "The Art Institute of Chicago",
+    "dist": 581.96356701,
+    "rate": 3,
+    "osm": "relation/1870546",
+    "wikidata": "Q239303",
+    "kinds": "cultural,museums,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.62308502197266,
+      "lat": 41.879600524902344
+    }
+  },
+  {
+    "xid": "N3744841481",
+    "name": "The Museum of Contemporary Photography",
+    "dist": 616.02950984,
+    "rate": 3,
+    "osm": "node/3744841481",
+    "wikidata": "Q3328434",
+    "kinds": "cultural,museums,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.62451171875,
+      "lat": 41.87420654296875
+    }
+  },
+  {
+    "xid": "Q24061530",
+    "name": "Chicago Design Museum",
+    "dist": 653.34420302,
+    "rate": 3,
+    "wikidata": "Q24061530",
+    "kinds": "museums,cultural,interesting_places,other_museums",
+    "point": {
+      "lon": -87.62846374511719,
+      "lat": 41.88389587402344
+    }
+  },
+  {
+    "xid": "Q1701386",
+    "name": "National Radio Hall of Fame",
+    "dist": 700.57782105,
+    "rate": 2,
+    "wikidata": "Q1701386",
+    "kinds": "museums,cultural,interesting_places,other_museums",
+    "point": {
+      "lon": -87.62512969970703,
+      "lat": 41.88335037231445
+    }
+  },
+  {
+    "xid": "N1586385054",
+    "name": "Gene Siskel Film Center",
+    "dist": 755.74907616,
+    "rate": 3,
+    "osm": "node/1586385054",
+    "wikidata": "Q5531450",
+    "kinds": "cultural,cinemas,museums,theatres_and_entertainments,interesting_places,other_museums",
+    "point": {
+      "lon": -87.6282730102539,
+      "lat": 41.88480758666992
+    }
+  },
+  {
+    "xid": "Q4937134",
+    "name": "Boeing Galleries",
+    "dist": 779.97960409,
+    "rate": 3,
+    "wikidata": "Q4937134",
+    "kinds": "cultural,museums,gardens_and_parks,urban_environment,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.6227035522461,
+      "lat": 41.8827018737793
+    }
+  },
+  {
+    "xid": "N5169949885",
+    "name": "American Writers Museum",
+    "dist": 927.94053035,
+    "rate": 3,
+    "osm": "node/5169949885",
+    "wikidata": "Q19864096",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": -87.6249008178711,
+      "lat": 41.8856086730957
+    }
+  },
+  {
+    "xid": "Q4650022",
+    "name": "ABA Museum of Law",
+    "dist": 1123.78073403,
+    "rate": 2,
+    "wikidata": "Q4650022",
+    "kinds": "museums,cultural,interesting_places,other_museums",
+    "point": {
+      "lon": -87.63059997558594,
+      "lat": 41.88819885253906
+    }
+  },
+  {
+    "xid": "W153291623",
+    "name": "Museum of Broadcast Communications",
+    "dist": 1217.30787043,
+    "rate": 2,
+    "osm": "way/153291623",
+    "wikidata": "Q840284",
+    "kinds": "cultural,museums,interesting_places,museums_of_science_and_technology,other_technology_museums",
+    "point": {
+      "lon": -87.62860870361328,
+      "lat": 41.88902282714844
+    }
+  },
+  {
+    "xid": "N6423952898",
+    "name": "Chicago Architecture Center",
+    "dist": 1222.65536268,
+    "rate": 3,
+    "osm": "node/6423952898",
+    "wikidata": "Q2963292",
+    "kinds": "cultural,museums,interesting_places,local_museums",
+    "point": {
+      "lon": -87.62361907958984,
+      "lat": 41.888092041015625
+    }
+  },
+  {
+    "xid": "W181379030",
+    "name": "National Hellenic Museum",
+    "dist": 1423.99882721,
+    "rate": 3,
+    "osm": "way/181379030",
+    "wikidata": "Q6973035",
+    "kinds": "cultural,museums,interesting_places,history_museums",
+    "point": {
+      "lon": -87.64688110351562,
+      "lat": 41.87689971923828
+    }
+  },
+  {
+    "xid": "W148902944",
+    "name": "Jane Addams' Hull-House Museum",
+    "dist": 1626.95188962,
+    "rate": 7,
+    "osm": "way/148902944",
+    "wikidata": "Q1582905",
+    "kinds": "biographical_museums,historic_house_museums,cultural,museums,interesting_places,history_museums",
+    "point": {
+      "lon": -87.64739990234375,
+      "lat": 41.87165069580078
+    }
+  },
+  {
+    "xid": "Q5518984",
+    "name": "Gallery 400",
+    "dist": 1661.42554647,
+    "rate": 2,
+    "wikidata": "Q5518984",
+    "kinds": "cultural,museums,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.64969635009766,
+      "lat": 41.87649917602539
+    }
+  },
+  {
+    "xid": "N8379728467",
+    "name": "Field Museum",
+    "dist": 1691.86813498,
+    "rate": 7,
+    "osm": "node/8379728467",
+    "wikidata": "Q1122595",
+    "kinds": "science_museums,cultural,museums,interesting_places",
+    "point": {
+      "lon": -87.61701965332031,
+      "lat": 41.86623764038086
+    }
+  },
+  {
+    "xid": "Q17066093",
+    "name": "Randolph Street Gallery",
+    "dist": 1769.35714829,
+    "rate": 2,
+    "wikidata": "Q17066093",
+    "kinds": "museums,cultural,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.6495590209961,
+      "lat": 41.88408279418945
+    }
+  },
+  {
+    "xid": "W24825568",
+    "name": "Shedd Aquarium",
+    "dist": 1779.00831798,
+    "rate": 7,
+    "osm": "way/24825568",
+    "wikidata": "Q2166515",
+    "kinds": "aquariums,urban_environment,gardens_and_parks,cultural,museums,interesting_places,zoos",
+    "point": {
+      "lon": -87.61368560791016,
+      "lat": 41.8675422668457
+    }
+  },
+  {
+    "xid": "Q4801437",
+    "name": "Arts Club of Chicago",
+    "dist": 1777.14816222,
+    "rate": 3,
+    "wikidata": "Q4801437",
+    "kinds": "cultural,museums,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.62239074707031,
+      "lat": 41.89311218261719
+    }
+  },
+  {
+    "xid": "Q7028434",
+    "name": "Nickerson House",
+    "dist": 1780.25262514,
+    "rate": 7,
+    "wikidata": "Q7028434",
+    "kinds": "museums,cultural,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.62677001953125,
+      "lat": 41.89396667480469
+    }
+  },
+  {
+    "xid": "N4060205627",
+    "name": "Richard H. Driehaus Museum",
+    "dist": 1818.34373181,
+    "rate": 3,
+    "osm": "node/4060205627",
+    "wikidata": "Q14687486",
+    "kinds": "cultural,museums,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.62650299072266,
+      "lat": 41.894283294677734
+    }
+  },
+  {
+    "xid": "Q7703108",
+    "name": "Terra Museum of American Art",
+    "dist": 1861.1905689,
+    "rate": 2,
+    "wikidata": "Q7703108",
+    "kinds": "museums,cultural,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.62460327148438,
+      "lat": 41.89440155029297
+    }
+  },
+  {
+    "xid": "N3660898208",
+    "name": "Loyola University Museum of Art",
+    "dist": 2170.19021942,
+    "rate": 3,
+    "osm": "node/3660898208",
+    "wikidata": "Q6694613",
+    "kinds": "cultural,museums,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.62506866455078,
+      "lat": 41.897315979003906
+    }
+  },
+  {
+    "xid": "W24800223",
+    "name": "Museum of Contemporary Art",
+    "dist": 2242.61717319,
+    "rate": 3,
+    "osm": "way/24800223",
+    "wikidata": "Q118142",
+    "kinds": "cultural,museums,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.62112426757812,
+      "lat": 41.897220611572266
+    }
+  },
+  {
+    "xid": "N7874287865",
+    "name": "Chicago Children's Museum",
+    "dist": 2264.62241593,
+    "rate": 3,
+    "osm": "node/7874287865",
+    "wikidata": "Q2963300",
+    "kinds": "children_museums,cultural,museums,interesting_places",
+    "point": {
+      "lon": -87.60919952392578,
+      "lat": 41.89147186279297
+    }
+  },
+  {
+    "xid": "W24825591",
+    "name": "Adler Planetarium",
+    "dist": 2323.7576335,
+    "rate": 7,
+    "osm": "way/24825591",
+    "wikidata": "Q358052",
+    "kinds": "planetariums,science_museums,cultural,museums,interesting_places",
+    "point": {
+      "lon": -87.60662841796875,
+      "lat": 41.86636734008789
+    }
+  },
+  {
+    "xid": "R2031807",
+    "name": "Glessner House Museum",
+    "dist": 2367.73354937,
+    "rate": 7,
+    "osm": "relation/2031807",
+    "wikidata": "Q3181814",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": -87.62145233154297,
+      "lat": 41.85771560668945
+    }
+  },
+  {
+    "xid": "W150749377",
+    "name": "Henry B. Clarke House",
+    "dist": 2426.14140555,
+    "rate": 7,
+    "osm": "way/150749377",
+    "wikidata": "Q3132596",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": -87.62187957763672,
+      "lat": 41.85707473754883
+    }
+  },
+  {
+    "xid": "N3157154661",
+    "name": "Amazing Chicago's Funhouse Maze",
+    "dist": 2454.49780123,
+    "rate": 3,
+    "osm": "node/3157154661",
+    "wikidata": "Q2963300",
+    "kinds": "other_amusement_rides,children_museums,cultural,museums,interesting_places,amusements",
+    "point": {
+      "lon": -87.60623931884766,
+      "lat": 41.89145278930664
+    }
+  },
+  {
+    "xid": "Q41573647",
+    "name": "National Public Housing Museum",
+    "dist": 2666.59001509,
+    "rate": 2,
+    "wikidata": "Q41573647",
+    "kinds": "museums,cultural,interesting_places,other_museums",
+    "point": {
+      "lon": -87.65985870361328,
+      "lat": 41.8696403503418
+    }
+  },
+  {
+    "xid": "W210537820",
+    "name": "Chess Studio",
+    "dist": 2758.7861816,
+    "rate": 3,
+    "osm": "way/210537820",
+    "wikidata": "Q772494",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": -87.62422180175781,
+      "lat": 41.853614807128906
+    }
+  },
+  {
+    "xid": "Q7545243",
+    "name": "Smith Museum of Stained Glass Windows",
+    "dist": 2789.15377411,
+    "rate": 2,
+    "wikidata": "Q7545243",
+    "kinds": "museums,cultural,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.60133361816406,
+      "lat": 41.89144515991211
+    }
+  },
+  {
+    "xid": "W210308110",
+    "name": "Intuit: The Center for Intuitive and Outsider Art",
+    "dist": 2814.37597876,
+    "rate": 2,
+    "osm": "way/210308110",
+    "wikidata": "Q6059089",
+    "kinds": "cultural,museums,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.65455627441406,
+      "lat": 41.895416259765625
+    }
+  },
+  {
+    "xid": "W210537354",
+    "name": "Chinese American Museum of Chicago",
+    "dist": 3003.38026641,
+    "rate": 3,
+    "osm": "way/210537354",
+    "wikidata": "Q14687444",
+    "kinds": "cultural,museums,interesting_places,history_museums",
+    "point": {
+      "lon": -87.6335220336914,
+      "lat": 41.85120391845703
+    }
+  },
+  {
+    "xid": "N3652936567",
+    "name": "Polish Museum of America",
+    "dist": 3531.07642967,
+    "rate": 3,
+    "osm": "node/3652936567",
+    "wikidata": "Q3394265",
+    "kinds": "cultural,museums,interesting_places,history_museums",
+    "point": {
+      "lon": -87.66104888916016,
+      "lat": 41.89967346191406
+    }
+  },
+  {
+    "xid": "W210686215",
+    "name": "International Museum of Surgical Science",
+    "dist": 3568.0246208,
+    "rate": 3,
+    "osm": "way/210686215",
+    "wikidata": "Q6052105",
+    "kinds": "science_museums,cultural,museums,interesting_places",
+    "point": {
+      "lon": -87.62693786621094,
+      "lat": 41.910152435302734
+    }
+  },
+  {
+    "xid": "W23987046",
+    "name": "Chicago History Museum",
+    "dist": 3766.92332374,
+    "rate": 3,
+    "osm": "way/23987046",
+    "wikidata": "Q2963315",
+    "kinds": "cultural,museums,interesting_places,history_museums",
+    "point": {
+      "lon": -87.63151550292969,
+      "lat": 41.911991119384766
+    }
+  },
+  {
+    "xid": "W202372249",
+    "name": "National Museum of Mexican Art",
+    "dist": 4337.73486206,
+    "rate": 3,
+    "osm": "way/202372249",
+    "wikidata": "Q3336910",
+    "kinds": "cultural,museums,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.67298126220703,
+      "lat": 41.85611343383789
+    }
+  },
+  {
+    "xid": "R5328430",
+    "name": "Lincoln Park Zoo",
+    "dist": 4805.66448717,
+    "rate": 2,
+    "osm": "relation/5328430",
+    "wikidata": "Q3241309",
+    "kinds": "urban_environment,gardens_and_parks,cultural,museums,interesting_places,zoos",
+    "point": {
+      "lon": -87.6337661743164,
+      "lat": 41.9212646484375
+    }
+  },
+  {
+    "xid": "N8520355484",
+    "name": "Ukrainian National Museum",
+    "dist": 4858.28729299,
+    "rate": 3,
+    "osm": "node/8520355484",
+    "wikidata": "Q7878483",
+    "kinds": "national_museums,cultural,museums,interesting_places",
+    "point": {
+      "lon": -87.68400573730469,
+      "lat": 41.89460754394531
+    }
+  },
+  {
+    "xid": "W209389536",
+    "name": "Ukrainian Institute of Modern Art",
+    "dist": 5005.9396698,
+    "rate": 2,
+    "osm": "way/209389536",
+    "wikidata": "Q3547881",
+    "kinds": "cultural,museums,interesting_places,art_galleries",
+    "point": {
+      "lon": -87.68516540527344,
+      "lat": 41.89598083496094
+    }
+  },
+  {
+    "xid": "W23986958",
+    "name": "The Peggy Notebaert Nature Museum",
+    "dist": 5449.48868299,
+    "rate": 3,
+    "osm": "way/23986958",
+    "wikidata": "Q7160706",
+    "kinds": "cultural,museums,interesting_places,other_museums",
+    "point": {
+      "lon": -87.63542175292969,
+      "lat": 41.92698287963867
+    }
+  },
+  {
+    "xid": "Q48966124",
+    "name": "Chicago Maritime Museum",
+    "dist": 5695.87899019,
+    "rate": 2,
+    "wikidata": "Q48966124",
+    "kinds": "museums,cultural,interesting_places,museums_of_science_and_technology,maritime_museums",
+    "point": {
+      "lon": -87.65630340576172,
+      "lat": 41.8307991027832
+    }
+  }
+]

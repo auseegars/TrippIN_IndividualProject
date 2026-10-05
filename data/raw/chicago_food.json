@@ -1,0 +1,972 @@
+[
+  {
+    "xid": "N1448920557",
+    "name": "Marquette Inn",
+    "dist": 161.26974327,
+    "rate": 7,
+    "osm": "node/1448920557",
+    "wikidata": "Q6772574",
+    "kinds": "architecture,historic_architecture,interesting_places,restaurants,foods,tourist_facilities,other_buildings_and_structures",
+    "point": {
+      "lon": -87.62979125976562,
+      "lat": 41.87955093383789
+    }
+  },
+  {
+    "xid": "N368064192",
+    "name": "The Berghoff Restaurant",
+    "dist": 172.66807472,
+    "rate": 2,
+    "osm": "node/368064192",
+    "wikidata": "Q7716549",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.62841796875,
+      "lat": 41.87926483154297
+    }
+  },
+  {
+    "xid": "Q48816144",
+    "name": "Everest",
+    "dist": 306.74956928,
+    "rate": 3,
+    "wikidata": "Q48816144",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.6322021484375,
+      "lat": 41.875999450683594
+    }
+  },
+  {
+    "xid": "Q1456058",
+    "name": "Friar's Inn",
+    "dist": 350.12222034,
+    "rate": 2,
+    "wikidata": "Q1456058",
+    "kinds": "cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62580108642578,
+      "lat": 41.87710189819336
+    }
+  },
+  {
+    "xid": "N4458262089",
+    "name": "Lobby Bar at Palmer House",
+    "dist": 361.94222824,
+    "rate": 7,
+    "osm": "node/4458262089",
+    "wikidata": "Q7755965",
+    "kinds": "accomodations,other_hotels,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62674713134766,
+      "lat": 41.880428314208984
+    }
+  },
+  {
+    "xid": "N4728599335",
+    "name": "Seven Lions",
+    "dist": 392.84275645,
+    "rate": 3,
+    "osm": "node/4728599335",
+    "wikidata": "Q29335007",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.62508392333984,
+      "lat": 41.878395080566406
+    }
+  },
+  {
+    "xid": "N1951914730",
+    "name": "Giordano's Pizzeria",
+    "dist": 407.66463836,
+    "rate": 2,
+    "osm": "node/1951914730",
+    "wikidata": "Q5563393",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.63471221923828,
+      "lat": 41.87797927856445
+    }
+  },
+  {
+    "xid": "Q7919410",
+    "name": "Velvet Lounge",
+    "dist": 651.07003688,
+    "rate": 2,
+    "wikidata": "Q7919410",
+    "kinds": "cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.63333129882812,
+      "lat": 41.88333511352539
+    }
+  },
+  {
+    "xid": "N6321527779",
+    "name": "Market By The Blackstone",
+    "dist": 677.79604814,
+    "rate": 7,
+    "osm": "node/6321527779",
+    "wikidata": "Q2905596",
+    "kinds": "accomodations,other_hotels,cafes,foods,tourist_facilities",
+    "point": {
+      "lon": -87.62470245361328,
+      "lat": 41.87333297729492
+    }
+  },
+  {
+    "xid": "Q3303613",
+    "name": "McCormick Tribune Plaza & Ice Rink",
+    "dist": 713.50123018,
+    "rate": 3,
+    "wikidata": "Q3303613",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.6238021850586,
+      "lat": 41.8827018737793
+    }
+  },
+  {
+    "xid": "N3750517760",
+    "name": "The Park Grill",
+    "dist": 724.11878779,
+    "rate": 3,
+    "osm": "node/3750517760",
+    "wikidata": "Q7137749",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.62359619140625,
+      "lat": 41.882686614990234
+    }
+  },
+  {
+    "xid": "N5295997076",
+    "name": "One North Kitchen",
+    "dist": 735.52904825,
+    "rate": 3,
+    "osm": "node/5295997076",
+    "wikidata": "Q1876150",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.6365966796875,
+      "lat": 41.88235092163086
+    }
+  },
+  {
+    "xid": "N1308260687",
+    "name": "Intelligentsia Coffee",
+    "dist": 767.74415607,
+    "rate": 3,
+    "osm": "node/1308260687",
+    "wikidata": "Q16997104",
+    "kinds": "foods,cafes,tourist_facilities",
+    "point": {
+      "lon": -87.62586212158203,
+      "lat": 41.88435363769531
+    }
+  },
+  {
+    "xid": "W210671717",
+    "name": "Crain Communications Building",
+    "dist": 846.57743504,
+    "rate": 3,
+    "osm": "way/210671717",
+    "wikidata": "Q2444330",
+    "kinds": "foods,cafes,tourist_facilities",
+    "point": {
+      "lon": -87.62495422363281,
+      "lat": 41.88480758666992
+    }
+  },
+  {
+    "xid": "N2623047864",
+    "name": "Cos\u00ec",
+    "dist": 874.21702146,
+    "rate": 3,
+    "osm": "node/2623047864",
+    "wikidata": "Q1836706",
+    "kinds": "foods,fast_food,tourist_facilities",
+    "point": {
+      "lon": -87.63119506835938,
+      "lat": 41.885902404785156
+    }
+  },
+  {
+    "xid": "N2819355827",
+    "name": "State and Lake Chicago Tavern",
+    "dist": 916.44964426,
+    "rate": 3,
+    "osm": "node/2819355827",
+    "wikidata": "Q2656448",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.627685546875,
+      "lat": 41.886199951171875
+    }
+  },
+  {
+    "xid": "N2819072965",
+    "name": "Billy Goat Tavern",
+    "dist": 928.55024791,
+    "rate": 3,
+    "osm": "node/2819072965",
+    "wikidata": "Q2903638",
+    "kinds": "foods,fast_food,tourist_facilities",
+    "point": {
+      "lon": -87.62574768066406,
+      "lat": 41.885894775390625
+    }
+  },
+  {
+    "xid": "W150864783",
+    "name": "Lou Mitchell's Restaurant",
+    "dist": 1022.91542537,
+    "rate": 7,
+    "osm": "way/150864783",
+    "wikidata": "Q6685659",
+    "kinds": "architecture,historic_architecture,interesting_places,restaurants,foods,tourist_facilities,other_buildings_and_structures",
+    "point": {
+      "lon": -87.64212036132812,
+      "lat": 41.87781524658203
+    }
+  },
+  {
+    "xid": "Q1423025",
+    "name": "Warehouse",
+    "dist": 1082.75852847,
+    "rate": 2,
+    "wikidata": "Q1423025",
+    "kinds": "nightclubs,adult,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.6427993774414,
+      "lat": 41.87889862060547
+    }
+  },
+  {
+    "xid": "W148910721",
+    "name": "Al's #1 Italian Beef",
+    "dist": 1084.63328351,
+    "rate": 2,
+    "osm": "way/148910721",
+    "wikidata": "Q5095607",
+    "kinds": "foods,fast_food,tourist_facilities",
+    "point": {
+      "lon": -87.6427993774414,
+      "lat": 41.87910079956055
+    }
+  },
+  {
+    "xid": "N6273484387",
+    "name": "Blackwood BBQ - Illinois Center",
+    "dist": 1126.01569071,
+    "rate": 2,
+    "osm": "node/6273484387",
+    "wikidata": "Q5999368",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.62322235107422,
+      "lat": 41.886966705322266
+    }
+  },
+  {
+    "xid": "N7331716830",
+    "name": "London House Chicago",
+    "dist": 1136.60219789,
+    "rate": 2,
+    "osm": "node/7331716830",
+    "wikidata": "Q7748047",
+    "kinds": "accomodations,nightclubs,cultural,theatres_and_entertainments,interesting_places,adult,music_venues,other_hotels,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62535858154297,
+      "lat": 41.887779235839844
+    }
+  },
+  {
+    "xid": "W395681262",
+    "name": "Queen's Landing Concession",
+    "dist": 1147.72604589,
+    "rate": 2,
+    "osm": "way/395681262",
+    "wikidata": "Q96419216",
+    "kinds": "foods,fast_food,tourist_facilities",
+    "point": {
+      "lon": -87.61642456054688,
+      "lat": 41.875492095947266
+    }
+  },
+  {
+    "xid": "N6397091037",
+    "name": "Yolk - Marina City",
+    "dist": 1162.76202876,
+    "rate": 3,
+    "osm": "node/6397091037",
+    "wikidata": "Q653584",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.62845611572266,
+      "lat": 41.888519287109375
+    }
+  },
+  {
+    "xid": "W153320976",
+    "name": "Harry Caray's Italian Steakhouse",
+    "dist": 1210.56220576,
+    "rate": 7,
+    "osm": "way/153320976",
+    "wikidata": "Q5095830",
+    "kinds": "architecture,historic_architecture,interesting_places,restaurants,foods,tourist_facilities,other_buildings_and_structures",
+    "point": {
+      "lon": -87.62931823730469,
+      "lat": 41.88899230957031
+    }
+  },
+  {
+    "xid": "N4733127521",
+    "name": "Sepia",
+    "dist": 1239.15187667,
+    "rate": 2,
+    "osm": "node/4733127521",
+    "wikidata": "Q17032198",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.64251708984375,
+      "lat": 41.883941650390625
+    }
+  },
+  {
+    "xid": "Q7533033",
+    "name": "Sixteen",
+    "dist": 1236.75111283,
+    "rate": 3,
+    "wikidata": "Q7533033",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.6265869140625,
+      "lat": 41.888973236083984
+    }
+  },
+  {
+    "xid": "N8025846802",
+    "name": "Aurelio's Pizza",
+    "dist": 1281.55690915,
+    "rate": 2,
+    "osm": "node/8025846802",
+    "wikidata": "Q4822251",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.62464904785156,
+      "lat": 41.86722183227539
+    }
+  },
+  {
+    "xid": "N4465471490",
+    "name": "Lettuce Entertain You Enterprises",
+    "dist": 1326.70811766,
+    "rate": 2,
+    "osm": "node/4465471490",
+    "wikidata": "Q6533864",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.62715148925781,
+      "lat": 41.8898811340332
+    }
+  },
+  {
+    "xid": "N4731205522",
+    "name": "Andy's Jazz",
+    "dist": 1330.02719776,
+    "rate": 2,
+    "osm": "node/4731205522",
+    "wikidata": "Q4760329",
+    "kinds": "nightclubs,cultural,theatres_and_entertainments,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62736511230469,
+      "lat": 41.88993453979492
+    }
+  },
+  {
+    "xid": "N3575225597",
+    "name": "Frontera Grill",
+    "dist": 1384.50580319,
+    "rate": 2,
+    "osm": "node/3575225597",
+    "wikidata": "Q5505941",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.63092041015625,
+      "lat": 41.89053726196289
+    }
+  },
+  {
+    "xid": "N357044250",
+    "name": "Billy Goat Tavern",
+    "dist": 1412.48172036,
+    "rate": 3,
+    "osm": "node/357044250",
+    "wikidata": "Q2903638",
+    "kinds": "pubs,foods,tourist_facilities",
+    "point": {
+      "lon": -87.62478637695312,
+      "lat": 41.890254974365234
+    }
+  },
+  {
+    "xid": "Q18748999",
+    "name": "Grace",
+    "dist": 1458.74441802,
+    "rate": 3,
+    "wikidata": "Q18748999",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.64488983154297,
+      "lat": 41.88483428955078
+    }
+  },
+  {
+    "xid": "Q1928054",
+    "name": "Michael Jordan's Restaurant",
+    "dist": 1458.61053738,
+    "rate": 3,
+    "wikidata": "Q1928054",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.63288879394531,
+      "lat": 41.891029357910156
+    }
+  },
+  {
+    "xid": "N2203666226",
+    "name": "Greek Islands Restaurant",
+    "dist": 1473.29366773,
+    "rate": 2,
+    "osm": "node/2203666226",
+    "wikidata": "Q5601794",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.64750671386719,
+      "lat": 41.87898635864258
+    }
+  },
+  {
+    "xid": "Q2412168",
+    "name": "The Jazz Showcase",
+    "dist": 1477.82772676,
+    "rate": 2,
+    "wikidata": "Q2412168",
+    "kinds": "cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.63030242919922,
+      "lat": 41.89139938354492
+    }
+  },
+  {
+    "xid": "N5460575190",
+    "name": "Oriole",
+    "dist": 1543.96683448,
+    "rate": 2,
+    "osm": "node/5460575190",
+    "wikidata": "Q48816428",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.64510345458984,
+      "lat": 41.88600540161133
+    }
+  },
+  {
+    "xid": "N6326499095",
+    "name": "Lavazza",
+    "dist": 1602.31851767,
+    "rate": 3,
+    "osm": "node/6326499095",
+    "wikidata": "Q543750",
+    "kinds": "foods,cafes,tourist_facilities",
+    "point": {
+      "lon": -87.62609100341797,
+      "lat": 41.89225769042969
+    }
+  },
+  {
+    "xid": "W220089987",
+    "name": "McDonald's",
+    "dist": 1642.3961005,
+    "rate": 2,
+    "osm": "way/220089987",
+    "wikidata": "Q7354613",
+    "kinds": "fast_food,restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.63162231445312,
+      "lat": 41.892822265625
+    }
+  },
+  {
+    "xid": "N4060205624",
+    "name": "Lawry's The Prime Rib",
+    "dist": 1754.69529219,
+    "rate": 3,
+    "osm": "node/4060205624",
+    "wikidata": "Q6504870",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.62503051757812,
+      "lat": 41.893489837646484
+    }
+  },
+  {
+    "xid": "Q7337009",
+    "name": "Rive Gauche Nightclub",
+    "dist": 1791.23466539,
+    "rate": 2,
+    "wikidata": "Q7337009",
+    "kinds": "cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.64772033691406,
+      "lat": 41.8870849609375
+    }
+  },
+  {
+    "xid": "Q5094649",
+    "name": "Chez Paree",
+    "dist": 1849.75830052,
+    "rate": 2,
+    "wikidata": "Q5094649",
+    "kinds": "theatres_and_entertainments,cultural,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62039947509766,
+      "lat": 41.8931999206543
+    }
+  },
+  {
+    "xid": "Q7847093",
+    "name": "Tru",
+    "dist": 1899.73848438,
+    "rate": 2,
+    "wikidata": "Q7847093",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.62305450439453,
+      "lat": 41.89444351196289
+    }
+  },
+  {
+    "xid": "W210680201",
+    "name": "The Green Door Tavern",
+    "dist": 1939.844926,
+    "rate": 3,
+    "osm": "way/210680201",
+    "wikidata": "Q16947573",
+    "kinds": "restaurants,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.63740539550781,
+      "lat": 41.894615173339844
+    }
+  },
+  {
+    "xid": "Q14687892",
+    "name": "Mirage Tavern",
+    "dist": 1976.2364149,
+    "rate": 3,
+    "wikidata": "Q14687892",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.63410186767578,
+      "lat": 41.895599365234375
+    }
+  },
+  {
+    "xid": "N5458112400",
+    "name": "New Rebozo Chicago",
+    "dist": 1999.49187356,
+    "rate": 3,
+    "osm": "node/5458112400",
+    "wikidata": "Q2963284",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.62643432617188,
+      "lat": 41.89592361450195
+    }
+  },
+  {
+    "xid": "N3575173111",
+    "name": "Next",
+    "dist": 2070.69051972,
+    "rate": 2,
+    "osm": "node/3575173111",
+    "wikidata": "Q7020950",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.65200805664062,
+      "lat": 41.886592864990234
+    }
+  },
+  {
+    "xid": "W159959826",
+    "name": "Gino's East",
+    "dist": 2066.92606375,
+    "rate": 2,
+    "osm": "way/159959826",
+    "wikidata": "Q5563202",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.62303161621094,
+      "lat": 41.8960075378418
+    }
+  },
+  {
+    "xid": "N6154694740",
+    "name": "Rosati's Pizza",
+    "dist": 2080.69621975,
+    "rate": 2,
+    "osm": "node/6154694740",
+    "wikidata": "Q65052579",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.64669799804688,
+      "lat": 41.86426544189453
+    }
+  },
+  {
+    "xid": "N5457984148",
+    "name": "Farmhouse Chicago",
+    "dist": 2132.77144638,
+    "rate": 3,
+    "osm": "node/5457984148",
+    "wikidata": "Q2963286",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.635498046875,
+      "lat": 41.89682388305664
+    }
+  },
+  {
+    "xid": "N6271908429",
+    "name": "Argo Tea",
+    "dist": 2160.97351839,
+    "rate": 2,
+    "osm": "node/6271908429",
+    "wikidata": "Q4789633",
+    "kinds": "foods,cafes,tourist_facilities",
+    "point": {
+      "lon": -87.62096405029297,
+      "lat": 41.896400451660156
+    }
+  },
+  {
+    "xid": "W149877831",
+    "name": "Al's #1 Italian Beef",
+    "dist": 2233.22369085,
+    "rate": 2,
+    "osm": "way/149877831",
+    "wikidata": "Q5095607",
+    "kinds": "foods,fast_food,tourist_facilities",
+    "point": {
+      "lon": -87.65399932861328,
+      "lat": 41.869319915771484
+    }
+  },
+  {
+    "xid": "Q21410985",
+    "name": "The Great Gritzbe's Flying Food Show",
+    "dist": 2252.149172,
+    "rate": 2,
+    "wikidata": "Q21410985",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.6272201538086,
+      "lat": 41.898284912109375
+    }
+  },
+  {
+    "xid": "Q7276752",
+    "name": "RIA",
+    "dist": 2409.17861044,
+    "rate": 2,
+    "wikidata": "Q7276752",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.62750244140625,
+      "lat": 41.899723052978516
+    }
+  },
+  {
+    "xid": "N6326487082",
+    "name": "Palm Court",
+    "dist": 2531.37299768,
+    "rate": 7,
+    "osm": "node/6326487082",
+    "wikidata": "Q5305603",
+    "kinds": "accomodations,other_hotels,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62345886230469,
+      "lat": 41.900390625
+    }
+  },
+  {
+    "xid": "Q6880159",
+    "name": "Mister Kelly's",
+    "dist": 2592.26573849,
+    "rate": 2,
+    "wikidata": "Q6880159",
+    "kinds": "cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.62799835205078,
+      "lat": 41.90140151977539
+    }
+  },
+  {
+    "xid": "N3586182893",
+    "name": "Billy Goat Tavern",
+    "dist": 2629.68017595,
+    "rate": 3,
+    "osm": "node/3586182893",
+    "wikidata": "Q2903638",
+    "kinds": "foods,fast_food,tourist_facilities",
+    "point": {
+      "lon": -87.60362243652344,
+      "lat": 41.891441345214844
+    }
+  },
+  {
+    "xid": "N5460722827",
+    "name": "Smyth",
+    "dist": 2676.70164211,
+    "rate": 2,
+    "osm": "node/5460722827",
+    "wikidata": "Q55633370",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.66058349609375,
+      "lat": 41.88528060913086
+    }
+  },
+  {
+    "xid": "W210270035",
+    "name": "Bottom Lounge",
+    "dist": 2769.44921791,
+    "rate": 3,
+    "osm": "way/210270035",
+    "wikidata": "Q4949123",
+    "kinds": "foods,restaurants,tourist_facilities",
+    "point": {
+      "lon": -87.66180419921875,
+      "lat": 41.88515090942383
+    }
+  },
+  {
+    "xid": "W752904680",
+    "name": "Navy Pier Beer Garden",
+    "dist": 2867.21627985,
+    "rate": 7,
+    "osm": "way/752904680",
+    "wikidata": "Q3337338",
+    "kinds": "architecture,historic_architecture,interesting_places,foods,bars,tourist_facilities,other_buildings_and_structures",
+    "point": {
+      "lon": -87.60037994384766,
+      "lat": 41.891632080078125
+    }
+  },
+  {
+    "xid": "W209846687",
+    "name": "The Frontier",
+    "dist": 3800.43883177,
+    "rate": 2,
+    "osm": "way/209846687",
+    "wikidata": "Q16993845",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.66358184814453,
+      "lat": 41.90119934082031
+    }
+  },
+  {
+    "xid": "N3502294529",
+    "name": "Alinea",
+    "dist": 4211.46700451,
+    "rate": 3,
+    "osm": "node/3502294529",
+    "wikidata": "Q4726773",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.64820098876953,
+      "lat": 41.91343688964844
+    }
+  },
+  {
+    "xid": "N3502294527",
+    "name": "Boka",
+    "dist": 4232.42897673,
+    "rate": 3,
+    "osm": "node/3502294527",
+    "wikidata": "Q16255079",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.64820098876953,
+      "lat": 41.913639068603516
+    }
+  },
+  {
+    "xid": "W210535439",
+    "name": "Maxwell Street Depot",
+    "dist": 4495.49021775,
+    "rate": 2,
+    "osm": "way/210535439",
+    "wikidata": "Q6796151",
+    "kinds": "fast_food,restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.63713073730469,
+      "lat": 41.83799743652344
+    }
+  },
+  {
+    "xid": "N6297643296",
+    "name": "Schwa",
+    "dist": 4661.00722427,
+    "rate": 3,
+    "osm": "node/6297643296",
+    "wikidata": "Q7433122",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.66788482666016,
+      "lat": 41.90894317626953
+    }
+  },
+  {
+    "xid": "N4564443501",
+    "name": "Chicago Pizza and Oven Grinder Co.",
+    "dist": 4783.96952829,
+    "rate": 2,
+    "osm": "node/4564443501",
+    "wikidata": "Q16258058",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.63732147216797,
+      "lat": 41.92080307006836
+    }
+  },
+  {
+    "xid": "N6315597292",
+    "name": "The Hideout",
+    "dist": 4821.98120532,
+    "rate": 3,
+    "osm": "node/6315597292",
+    "wikidata": "Q25344890",
+    "kinds": "nightclubs,cultural,theatres_and_entertainments,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.66263580322266,
+      "lat": 41.913917541503906
+    }
+  },
+  {
+    "xid": "Q16919553",
+    "name": "West End",
+    "dist": 4999.65033436,
+    "rate": 2,
+    "wikidata": "Q16919553",
+    "kinds": "cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.65797424316406,
+      "lat": 41.91788864135742
+    }
+  },
+  {
+    "xid": "N6322787575",
+    "name": "Mon Ami Gabi",
+    "dist": 5157.9569948,
+    "rate": 2,
+    "osm": "node/6322787575",
+    "wikidata": "Q6456854",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.63702392578125,
+      "lat": 41.924224853515625
+    }
+  },
+  {
+    "xid": "N8095615490",
+    "name": "Harold's Chicken #88",
+    "dist": 5243.66369556,
+    "rate": 2,
+    "osm": "node/8095615490",
+    "wikidata": "Q5659832",
+    "kinds": "foods,fast_food,tourist_facilities",
+    "point": {
+      "lon": -87.62223052978516,
+      "lat": 41.83123016357422
+    }
+  },
+  {
+    "xid": "Q5299735",
+    "name": "Double Door",
+    "dist": 5281.78373417,
+    "rate": 3,
+    "wikidata": "Q5299735",
+    "kinds": "concert_halls,cultural,theatres_and_entertainments,nightclubs,interesting_places,adult,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.677001953125,
+      "lat": 41.90999984741211
+    }
+  },
+  {
+    "xid": "W210321368",
+    "name": "Lincoln Hall",
+    "dist": 5564.48342753,
+    "rate": 3,
+    "osm": "way/210321368",
+    "wikidata": "Q6550694",
+    "kinds": "cultural,cinemas,theatres_and_entertainments,interesting_places,music_venues,foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.64981079101562,
+      "lat": 41.9259147644043
+    }
+  },
+  {
+    "xid": "W210171238",
+    "name": "Schaller's Pump",
+    "dist": 5823.62679986,
+    "rate": 2,
+    "osm": "way/210171238",
+    "wikidata": "Q24435822",
+    "kinds": "foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.64636993408203,
+      "lat": 41.827152252197266
+    }
+  },
+  {
+    "xid": "W210321648",
+    "name": "Kingston Mines",
+    "dist": 5846.38165904,
+    "rate": 2,
+    "osm": "way/210321648",
+    "wikidata": "Q19864560",
+    "kinds": "foods,bars,tourist_facilities",
+    "point": {
+      "lon": -87.64920806884766,
+      "lat": 41.9286994934082
+    }
+  },
+  {
+    "xid": "N6304253435",
+    "name": "The Wieners Circle",
+    "dist": 5897.29229473,
+    "rate": 3,
+    "osm": "node/6304253435",
+    "wikidata": "Q3523370",
+    "kinds": "restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.64381408691406,
+      "lat": 41.930152893066406
+    }
+  },
+  {
+    "xid": "W210321765",
+    "name": "The Wiener Circle",
+    "dist": 5897.50671081,
+    "rate": 3,
+    "osm": "way/210321765",
+    "wikidata": "Q3523370",
+    "kinds": "fast_food,restaurants,foods,tourist_facilities",
+    "point": {
+      "lon": -87.64381408691406,
+      "lat": 41.930152893066406
+    }
+  }
+]
